@@ -1,0 +1,258 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-filemanager 20090615131440\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.15 13:14+0300\n"
+"PO-Revision-Date: 2009.06.15 13:14+0300\n"
+"Last-Translator:\n"
+"Language-Team: fr_CA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1\n"
+
+msgid "docm_li_sort_date_newest"
+msgstr "Date (ordre décroissant)"
+
+msgid "docm_li_sort_date_oldest"
+msgstr "Date (ordre croissant)"
+
+msgid "docm_li_sort_name_az"
+msgstr "Nom (A-Z)"
+
+msgid "docm_li_sort_name_za"
+msgstr "Nom (Z-A)"
+
+msgid "docm_li_sort_size_largest"
+msgstr "Taille (ordre décroissant)"
+
+msgid "docm_li_sort_size_smallest"
+msgstr "Taille (ordre croissant)"
+
+msgid "docm_nc_delete_file"
+msgstr "Supprimer ce fichier ?"
+
+msgid "docm_nc_delete_files"
+msgstr "Supprimer les fichiers sélectionnés ?"
+
+msgid "docm_nc_delete_folder"
+msgstr "Supprimer ce dossier et son contenu ?"
+
+msgid "docm_nc_delete_folder_and_file"
+msgstr "Supprimer le dossier et le fichier sélectionnés ?"
+
+msgid "docm_nc_delete_folder_and_files"
+msgstr "Supprimer le dossier et les fichiers sélectionnés ?"
+
+msgid "docm_nc_delete_folders"
+msgstr "Supprimer les dossiers sélectionnés et leur contenu ?"
+
+msgid "docm_nc_delete_folders_and_file"
+msgstr "Supprimer les dossiers et le fichier sélectionnés ?"
+
+msgid "docm_nc_delete_folders_and_files"
+msgstr "Supprimer les dossiers et les fichiers sélectionnés ?"
+
+msgid "docm_nc_replace_folder"
+msgstr "Remplacer le dossier portant le même nom ?"
+
+msgid "docm_nw_duplicating_file"
+msgstr "Copie"
+
+msgid "hfil_ai_formatted_memory_card"
+msgstr "Carte mémoire"
+
+msgid "hfil_fi_folder_details_contents"
+msgstr "Contenu"
+
+msgid "hfil_fi_folder_details_date"
+msgstr "Date"
+
+msgid "hfil_fi_folder_details_device"
+msgstr "Emplacement"
+
+msgid "hfil_fi_folder_details_location"
+msgstr "Dossier"
+
+msgid "hfil_fi_folder_details_name"
+msgstr "Nom"
+
+msgid "hfil_fi_folder_details_size"
+msgstr "Taille"
+
+msgid "hfil_fi_folder_details_time"
+msgstr "Heure"
+
+msgid "hfil_ia_select_application_information"
+msgstr ""
+"Sélectionner une application de la liste pour ouvrir le fichier\n"
+"%s"
+
+msgid "hfil_me_copy"
+msgstr "Copier"
+
+msgid "hfil_me_details"
+msgstr "Détails"
+
+msgid "hfil_me_format"
+msgstr "Formater"
+
+msgid "hfil_me_memory_usage"
+msgstr "Utilisation de la mémoire"
+
+msgid "hfil_me_move"
+msgstr "Déplacer"
+
+msgid "hfil_me_new_folder"
+msgstr "Nouveau dossier"
+
+msgid "hfil_me_rename"
+msgstr "Renommer"
+
+msgid "hfil_me_sort"
+msgstr "Trier"
+
+msgid "hfil_nc_format_mmc"
+msgstr ""
+"Formater la mémoire ? Toutes les données de la carte mémoire seront "
+"supprimées lors du formatage."
+
+msgid "hfil_nw_preparing"
+msgstr "Préparation"
+
+msgid "hfil_ti_copy_to"
+msgstr "Copier dans le dossier"
+
+msgid "hfil_ti_edit_copy_to"
+msgstr "Choisir les éléments à copier"
+
+msgid "hfil_ti_edit_delete"
+msgstr "Choisir les éléments à supprimer"
+
+msgid "hfil_ti_edit_move_to"
+msgstr "Choisir les éléments à déplacer"
+
+msgid "hfil_ti_edit_share"
+msgstr "Choisir les éléments à partager"
+
+msgid "hfil_ti_folder_details"
+msgstr "Détails du dossier"
+
+msgid "hfil_ti_select_application"
+msgstr "Sélectionner une application"
+
+msgid "hfil_va_folder_details_size_bytes%d"
+msgstr "%d octets"
+
+msgid "hfil_va_folder_details_size_kb%d"
+msgstr "%d Ko"
+
+msgid "sfil_ap_name"
+msgstr "Gest. fichiers"
+
+msgid "sfil_fi_folder_details_contents"
+msgstr "%s, %s"
+
+msgid "sfil_fi_folder_details_contents_00"
+msgstr "Aucun"
+
+msgid "sfil_fi_folder_details_contents_file"
+msgid_plural "sfil_fi_folder_details_contents_files"
+msgstr[0] "%d fichier"
+msgstr[1] "%d fichiers"
+
+msgid "sfil_fi_folder_details_contents_folder"
+msgid_plural "sfil_fi_folder_details_contents_folders"
+msgstr[0] "%d dossier"
+msgstr[1] "%d dossiers"
+
+msgid "sfil_ib_cannot_duplicate_file"
+msgstr "Impossible de copier ce fichier"
+
+msgid "sfil_ib_cannot_duplicate_folder"
+msgstr "Impossible de copier ce dossier"
+
+msgid "sfil_ib_card_name_in_use_for_file"
+msgstr "Ce nom est déjà utilisé pour un élément du répertoire racine"
+
+msgid "sfil_ib_not_allowed"
+msgstr "Non autorisé"
+
+msgid "sfil_ib_unable_to_continue_read_only_folder"
+msgstr ""
+"Impossible de continuer.\n"
+"Dossier en lecture seule : %s"
+
+msgid "sfil_nc_delete_partially_read_only_items"
+msgstr ""
+"Des éléments sont en lecture seule.\n"
+"Supprimer les éléments sélectionnés ?"
+
+msgid "sfil_ni_cannot_copy_some_items"
+msgstr "Impossible de copier certains éléments"
+
+msgid "sfil_ni_cannot_delete_some_items"
+msgstr "Impossible de supprimer certains éléments"
+
+msgid "sfil_ni_cannot_duplicate_file_not_found"
+msgstr ""
+"Impossible de copier.\n"
+"Fichier introuvable."
+
+msgid "sfil_ni_cannot_duplicate_folder_not_found"
+msgstr ""
+"Impossible de copier.\n"
+"Dossier introuvable."
+
+msgid "sfil_ni_cannot_move_file_not_found"
+msgstr ""
+"Impossible de déplacer.\n"
+"Fichier introuvable."
+
+msgid "sfil_ni_cannot_move_items_not_found"
+msgstr ""
+"Impossible de déplacer.\n"
+"Éléments introuvables."
+
+msgid "sfil_ni_cannot_move_no_connection"
+msgstr ""
+"Déplacement interrompu.\n"
+"La connexion a échoué."
+
+msgid "sfil_ni_cannot_move_some_items"
+msgstr "Impossible de déplacer certains éléments"
+
+msgid "sfil_ni_cannot_open_no_resource"
+msgstr ""
+"Impossible d'ouvrir.\n"
+"Ressources système insuffisantes."
+
+msgid "sfil_ni_cannot_rename_folder_not_found"
+msgstr ""
+"Impossible de renommer.\n"
+"Dossier introuvable."
+
+msgid "sfil_ni_mmc_format_mmc_in_use"
+msgstr ""
+"Formatage impossible.\n"
+"Mémoire en cours d'utilisation."
+
+msgid "sfil_ni_mmc_rename_mmc_in_use"
+msgstr ""
+"Impossible de renommer.\n"
+"Carte en cours d'utilisation."
+
+msgid "sfil_ni_selected_item_in_use"
+msgstr "L'élément sélectionné est en cours d'utilisation"
+
+msgid "sfil_ni_selected_items_in_use"
+msgstr "Les éléments sélectionnés sont en cours d'utilisation"
+
+msgid "sfil_ni_some_selected_items_in_use"
+msgstr "Certains éléments sélectionnés sont en cours d'utilisation"
+
+msgid "sfil_ti_name"
+msgstr "Gestionnaire de fichiers"
+
+msgid "sfil_ti_rename_mmc"
+msgstr "Renommer la carte mémoire"

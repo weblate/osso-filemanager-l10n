@@ -1,0 +1,260 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-filemanager 20090615131440\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.15 13:14+0300\n"
+"PO-Revision-Date: 2009.06.15 13:14+0300\n"
+"Last-Translator:\n"
+"Language-Team: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2\n"
+
+msgid "docm_li_sort_date_newest"
+msgstr "Data (od najnowszych)"
+
+msgid "docm_li_sort_date_oldest"
+msgstr "Data (od najstarszych)"
+
+msgid "docm_li_sort_name_az"
+msgstr "Nazwa (A-Z)"
+
+msgid "docm_li_sort_name_za"
+msgstr "Nazwa (Z-A)"
+
+msgid "docm_li_sort_size_largest"
+msgstr "Rozmiar (od największych)"
+
+msgid "docm_li_sort_size_smallest"
+msgstr "Rozmiar (od najmniejszych)"
+
+msgid "docm_nc_delete_file"
+msgstr "Usunąć plik?"
+
+msgid "docm_nc_delete_files"
+msgstr "Usunąć wybrane pliki?"
+
+msgid "docm_nc_delete_folder"
+msgstr "Usunąć folder wraz z zawartością?"
+
+msgid "docm_nc_delete_folder_and_file"
+msgstr "Usunąć wybrany folder i plik?"
+
+msgid "docm_nc_delete_folder_and_files"
+msgstr "Usunąć wybrany folder i pliki?"
+
+msgid "docm_nc_delete_folders"
+msgstr "Usunąć wybrane foldery wraz z zawartością?"
+
+msgid "docm_nc_delete_folders_and_file"
+msgstr "Usunąć wybrane foldery i plik?"
+
+msgid "docm_nc_delete_folders_and_files"
+msgstr "Usunąć wybrane foldery i pliki?"
+
+msgid "docm_nc_replace_folder"
+msgstr "Zastąpić istniejący folder o tej samej nazwie?"
+
+msgid "docm_nw_duplicating_file"
+msgstr "Kopiowanie"
+
+msgid "hfil_ai_formatted_memory_card"
+msgstr "Karta pamięci"
+
+msgid "hfil_fi_folder_details_contents"
+msgstr "Zawartość"
+
+msgid "hfil_fi_folder_details_date"
+msgstr "Data"
+
+msgid "hfil_fi_folder_details_device"
+msgstr "Pamięć"
+
+msgid "hfil_fi_folder_details_location"
+msgstr "Lokalizacja"
+
+msgid "hfil_fi_folder_details_name"
+msgstr "Nazwa"
+
+msgid "hfil_fi_folder_details_size"
+msgstr "Rozmiar"
+
+msgid "hfil_fi_folder_details_time"
+msgstr "Godzina"
+
+msgid "hfil_ia_select_application_information"
+msgstr ""
+"Wybierz aplikację z listy, aby otworzyć plik\n"
+"%s"
+
+msgid "hfil_me_copy"
+msgstr "Kopiuj"
+
+msgid "hfil_me_details"
+msgstr "Szczegóły"
+
+msgid "hfil_me_format"
+msgstr "Formatuj"
+
+msgid "hfil_me_memory_usage"
+msgstr "Wykorzystanie pamięci"
+
+msgid "hfil_me_move"
+msgstr "Przenieś"
+
+msgid "hfil_me_new_folder"
+msgstr "Nowy folder"
+
+msgid "hfil_me_rename"
+msgstr "Zmień nazwę"
+
+msgid "hfil_me_sort"
+msgstr "Sortuj"
+
+msgid "hfil_nc_format_mmc"
+msgstr ""
+"Sformatować pamięć? Podczas formatowania wszystkie dane zostaną usunięte."
+
+msgid "hfil_nw_preparing"
+msgstr "Przygotowywanie"
+
+msgid "hfil_ti_copy_to"
+msgstr "Kopiuj do folderu"
+
+msgid "hfil_ti_edit_copy_to"
+msgstr "Wybierz elementy do skopiowania"
+
+msgid "hfil_ti_edit_delete"
+msgstr "Wybierz elementy do usunięcia"
+
+msgid "hfil_ti_edit_move_to"
+msgstr "Wybierz elementy do przeniesienia"
+
+msgid "hfil_ti_edit_share"
+msgstr "Wybierz elementy do udostępnienia"
+
+msgid "hfil_ti_folder_details"
+msgstr "Szczegóły folderu"
+
+msgid "hfil_ti_select_application"
+msgstr "Wybierz aplikację"
+
+msgid "hfil_va_folder_details_size_bytes%d"
+msgstr "%d B"
+
+msgid "hfil_va_folder_details_size_kb%d"
+msgstr "%d KB"
+
+msgid "sfil_ap_name"
+msgstr "Pliki"
+
+msgid "sfil_fi_folder_details_contents"
+msgstr "%s, %s"
+
+msgid "sfil_fi_folder_details_contents_00"
+msgstr "Brak"
+
+msgid "sfil_fi_folder_details_contents_file"
+msgid_plural "sfil_fi_folder_details_contents_files"
+msgstr[0] "%d plik"
+msgstr[1] "%d pliki"
+msgstr[2] "%d plików"
+
+msgid "sfil_fi_folder_details_contents_folder"
+msgid_plural "sfil_fi_folder_details_contents_folders"
+msgstr[0] "%d folder"
+msgstr[1] "%d foldery"
+msgstr[2] "%d folderów"
+
+msgid "sfil_ib_cannot_duplicate_file"
+msgstr "Nie można skopiować pliku"
+
+msgid "sfil_ib_cannot_duplicate_folder"
+msgstr "Nie można skopiować folderu"
+
+msgid "sfil_ib_card_name_in_use_for_file"
+msgstr "Nazwa jest już używana dla elementu w folderze głównym"
+
+msgid "sfil_ib_not_allowed"
+msgstr "Niedozwolone"
+
+msgid "sfil_ib_unable_to_continue_read_only_folder"
+msgstr ""
+"Nie można kontynuować.\n"
+"Folder tylko do odczytu %s"
+
+msgid "sfil_nc_delete_partially_read_only_items"
+msgstr ""
+"Niektóre elementy są tylko do odczytu.\n"
+"Usunąć wybrane elementy?"
+
+msgid "sfil_ni_cannot_copy_some_items"
+msgstr "Nie można skopiować niektórych elementów"
+
+msgid "sfil_ni_cannot_delete_some_items"
+msgstr "Nie można usunąć niektórych elementów"
+
+msgid "sfil_ni_cannot_duplicate_file_not_found"
+msgstr ""
+"Nie można skopiować.\n"
+"Nie znaleziono pliku."
+
+msgid "sfil_ni_cannot_duplicate_folder_not_found"
+msgstr ""
+"Nie można skopiować.\n"
+"Nie znaleziono folderu."
+
+msgid "sfil_ni_cannot_move_file_not_found"
+msgstr ""
+"Nie można przenieść.\n"
+"Nie znaleziono pliku."
+
+msgid "sfil_ni_cannot_move_items_not_found"
+msgstr ""
+"Nie można przenieść.\n"
+"Nie znaleziono elementów."
+
+msgid "sfil_ni_cannot_move_no_connection"
+msgstr ""
+"Przenoszenie przerwane.\n"
+"Błąd połączenia."
+
+msgid "sfil_ni_cannot_move_some_items"
+msgstr "Nie można przenieść niektórych elementów"
+
+msgid "sfil_ni_cannot_open_no_resource"
+msgstr ""
+"Nie można otworzyć.\n"
+"Niewystarczające zasoby systemu."
+
+msgid "sfil_ni_cannot_rename_folder_not_found"
+msgstr ""
+"Nie można zmienić nazwy.\n"
+"Nie znaleziono folderu."
+
+msgid "sfil_ni_mmc_format_mmc_in_use"
+msgstr ""
+"Nie można sformatować.\n"
+"Pamięć w użyciu."
+
+msgid "sfil_ni_mmc_rename_mmc_in_use"
+msgstr ""
+"Nie można zmienić nazwy.\n"
+"Karta pamięci w użyciu."
+
+msgid "sfil_ni_selected_item_in_use"
+msgstr "Wybrany element jest używany"
+
+msgid "sfil_ni_selected_items_in_use"
+msgstr "Wybrane elementy są używane"
+
+msgid "sfil_ni_some_selected_items_in_use"
+msgstr "Niektóre wybrane elementy są używane"
+
+msgid "sfil_ti_name"
+msgstr "Pliki"
+
+msgid "sfil_ti_rename_mmc"
+msgstr "Zmień nazwę karty pamięci"

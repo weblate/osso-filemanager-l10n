@@ -1,0 +1,261 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-filemanager 20090615131440\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.15 13:14+0300\n"
+"PO-Revision-Date: 2009.06.15 13:14+0300\n"
+"Last-Translator:\n"
+"Language-Team: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+
+msgid "docm_li_sort_date_newest"
+msgstr "Datum (první nejnovější)"
+
+msgid "docm_li_sort_date_oldest"
+msgstr "Datum (první nejstarší)"
+
+msgid "docm_li_sort_name_az"
+msgstr "Jméno (A-Z)"
+
+msgid "docm_li_sort_name_za"
+msgstr "Jméno (Z-A)"
+
+msgid "docm_li_sort_size_largest"
+msgstr "Velikost (první největší)"
+
+msgid "docm_li_sort_size_smallest"
+msgstr "Velikost (první nejmenší)"
+
+msgid "docm_nc_delete_file"
+msgstr "Odstranit soubor?"
+
+msgid "docm_nc_delete_files"
+msgstr "Odstranit vybrané soubory?"
+
+msgid "docm_nc_delete_folder"
+msgstr "Odstranit složku a její obsah?"
+
+msgid "docm_nc_delete_folder_and_file"
+msgstr "Odstranit vybranou složku a soubor?"
+
+msgid "docm_nc_delete_folder_and_files"
+msgstr "Odstranit vybranou složku a soubory?"
+
+msgid "docm_nc_delete_folders"
+msgstr "Odstranit vybrané složky a jejich obsah?"
+
+msgid "docm_nc_delete_folders_and_file"
+msgstr "Odstranit vybrané složky a soubor?"
+
+msgid "docm_nc_delete_folders_and_files"
+msgstr "Odstranit vybrané složky a soubory?"
+
+msgid "docm_nc_replace_folder"
+msgstr "Nahradit stávající složku stejného názvu?"
+
+msgid "docm_nw_duplicating_file"
+msgstr "Kopírování"
+
+msgid "hfil_ai_formatted_memory_card"
+msgstr "Paměťová karta"
+
+msgid "hfil_fi_folder_details_contents"
+msgstr "Obsah"
+
+msgid "hfil_fi_folder_details_date"
+msgstr "Datum"
+
+msgid "hfil_fi_folder_details_device"
+msgstr "Paměť"
+
+msgid "hfil_fi_folder_details_location"
+msgstr "Umístění"
+
+msgid "hfil_fi_folder_details_name"
+msgstr "Název"
+
+msgid "hfil_fi_folder_details_size"
+msgstr "Velikost"
+
+msgid "hfil_fi_folder_details_time"
+msgstr "Čas"
+
+msgid "hfil_ia_select_application_information"
+msgstr ""
+"Zvolte aplikaci ze seznamu pro otevření souboru\n"
+"'%s'"
+
+msgid "hfil_me_copy"
+msgstr "Kopírovat"
+
+msgid "hfil_me_details"
+msgstr "Podrobnosti"
+
+msgid "hfil_me_format"
+msgstr "Formátovat"
+
+msgid "hfil_me_memory_usage"
+msgstr "Využití paměti"
+
+msgid "hfil_me_move"
+msgstr "Přesunout"
+
+msgid "hfil_me_new_folder"
+msgstr "Nová složka"
+
+msgid "hfil_me_rename"
+msgstr "Přejmenovat"
+
+msgid "hfil_me_sort"
+msgstr "Třídit"
+
+msgid "hfil_nc_format_mmc"
+msgstr ""
+"Formátovat paměť?\n"
+"Všechna data na paměťové kartě budou během\n"
+"formátování odstraněna."
+
+msgid "hfil_nw_preparing"
+msgstr "Příprava"
+
+msgid "hfil_ti_copy_to"
+msgstr "Kopírovat do složky"
+
+msgid "hfil_ti_edit_copy_to"
+msgstr "Vyberte položky pro kopírování"
+
+msgid "hfil_ti_edit_delete"
+msgstr "Vyberte položky pro odstranění"
+
+msgid "hfil_ti_edit_move_to"
+msgstr "Vyberte položky pro přesunutí"
+
+msgid "hfil_ti_edit_share"
+msgstr "Vyberte položky pro sdílení"
+
+msgid "hfil_ti_folder_details"
+msgstr "Podrobnosti složky"
+
+msgid "hfil_ti_select_application"
+msgstr "Zvolte aplikaci"
+
+msgid "hfil_va_folder_details_size_bytes%d"
+msgstr "%d B"
+
+msgid "hfil_va_folder_details_size_kb%d"
+msgstr "%d kB"
+
+msgid "sfil_ap_name"
+msgstr "Správce souborů"
+
+msgid "sfil_fi_folder_details_contents"
+msgstr "%s, %s"
+
+msgid "sfil_fi_folder_details_contents_00"
+msgstr "Žádný"
+
+msgid "sfil_fi_folder_details_contents_file"
+msgid_plural "sfil_fi_folder_details_contents_files"
+msgstr[0] "%d soubor"
+msgstr[1] "%d soubory"
+msgstr[2] "%d souborů"
+
+msgid "sfil_fi_folder_details_contents_folder"
+msgid_plural "sfil_fi_folder_details_contents_folders"
+msgstr[0] "%d složka"
+msgstr[1] "%d složky"
+msgstr[2] "%d složek"
+
+msgid "sfil_ib_cannot_duplicate_file"
+msgstr "Tento soubor nelze zkopírovat"
+
+msgid "sfil_ib_cannot_duplicate_folder"
+msgstr "Tuto složku nelze zkopírovat"
+
+msgid "sfil_ib_card_name_in_use_for_file"
+msgstr "Název se již používá pro položku v kořenové složce"
+
+msgid "sfil_ib_not_allowed"
+msgstr "Nepovoleno"
+
+msgid "sfil_ib_unable_to_continue_read_only_folder"
+msgstr ""
+"Nelze pokračovat.\n"
+"Složka '%s' je jen pro čtení"
+
+msgid "sfil_nc_delete_partially_read_only_items"
+msgstr ""
+"Některé položky jsou pouze pro čtení.\n"
+"Odstranit vybrané položky?"
+
+msgid "sfil_ni_cannot_copy_some_items"
+msgstr "Nelze kopírovat některé položky"
+
+msgid "sfil_ni_cannot_delete_some_items"
+msgstr "Nelze odstranit některé položky"
+
+msgid "sfil_ni_cannot_duplicate_file_not_found"
+msgstr ""
+"Nelze kopírovat.\n"
+"Soubor nenalezen."
+
+msgid "sfil_ni_cannot_duplicate_folder_not_found"
+msgstr ""
+"Nelze kopírovat.\n"
+"Složka nenalezena."
+
+msgid "sfil_ni_cannot_move_file_not_found"
+msgstr ""
+"Nelze přesunout.\n"
+"Soubor nenalezen."
+
+msgid "sfil_ni_cannot_move_items_not_found"
+msgstr ""
+"Nelze přesunout.\n"
+"Položky nenalezeny."
+
+msgid "sfil_ni_cannot_move_no_connection"
+msgstr ""
+"Přesunování přerušeno.\n"
+"Připojení selhalo."
+
+msgid "sfil_ni_cannot_move_some_items"
+msgstr "Nelze přesunout některé položky"
+
+msgid "sfil_ni_cannot_open_no_resource"
+msgstr ""
+"Nelze otevřít.\n"
+"Nedostatek systémových zdrojů."
+
+msgid "sfil_ni_cannot_rename_folder_not_found"
+msgstr ""
+"Nelze přejmenovat.\n"
+"Složka nenalezena."
+
+msgid "sfil_ni_mmc_format_mmc_in_use"
+msgstr ""
+"Nelze formátovat.\n"
+"Paměť se používá."
+
+msgid "sfil_ni_mmc_rename_mmc_in_use"
+msgstr ""
+"Nelze přejmenovat.\n"
+"Paměťová karta se používá."
+
+msgid "sfil_ni_selected_item_in_use"
+msgstr "Zvolená položka se používá"
+
+msgid "sfil_ni_selected_items_in_use"
+msgstr "Zvolené položky se používají"
+
+msgid "sfil_ni_some_selected_items_in_use"
+msgstr "Některé ze zvolených položek se používají"
+
+msgid "sfil_ti_name"
+msgstr "Správce souborů"
+
+msgid "sfil_ti_rename_mmc"
+msgstr "Přejmenovat paměťovou kartu"

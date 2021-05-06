@@ -1,0 +1,257 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-filemanager 20090615131440\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.15 13:14+0300\n"
+"PO-Revision-Date: 2009.06.15 13:14+0300\n"
+"Last-Translator:\n"
+"Language-Team: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "docm_li_sort_date_newest"
+msgstr "Dato (nyeste først)"
+
+msgid "docm_li_sort_date_oldest"
+msgstr "Dato (ældste først)"
+
+msgid "docm_li_sort_name_az"
+msgstr "Navn (A-Å)"
+
+msgid "docm_li_sort_name_za"
+msgstr "Navn (Å-A)"
+
+msgid "docm_li_sort_size_largest"
+msgstr "Størrelse (største først)"
+
+msgid "docm_li_sort_size_smallest"
+msgstr "Størrelse (mindste først)"
+
+msgid "docm_nc_delete_file"
+msgstr "Slet fil?"
+
+msgid "docm_nc_delete_files"
+msgstr "Slet valgte filer?"
+
+msgid "docm_nc_delete_folder"
+msgstr "Slet mappe og dens indhold?"
+
+msgid "docm_nc_delete_folder_and_file"
+msgstr "Slet valgt mappe og fil?"
+
+msgid "docm_nc_delete_folder_and_files"
+msgstr "Slet valgt mappe og filer?"
+
+msgid "docm_nc_delete_folders"
+msgstr "Slet valgte mapper og deres indhold?"
+
+msgid "docm_nc_delete_folders_and_file"
+msgstr "Slet valgte mapper og fil?"
+
+msgid "docm_nc_delete_folders_and_files"
+msgstr "Slet valgte mapper og filer?"
+
+msgid "docm_nc_replace_folder"
+msgstr "Udskift eksisterende mappe med samme navn?"
+
+msgid "docm_nw_duplicating_file"
+msgstr "Kopierer"
+
+msgid "hfil_ai_formatted_memory_card"
+msgstr "Hukommelseskort"
+
+msgid "hfil_fi_folder_details_contents"
+msgstr "Indhold"
+
+msgid "hfil_fi_folder_details_date"
+msgstr "Dato"
+
+msgid "hfil_fi_folder_details_device"
+msgstr "Lager"
+
+msgid "hfil_fi_folder_details_location"
+msgstr "Placering"
+
+msgid "hfil_fi_folder_details_name"
+msgstr "Navn"
+
+msgid "hfil_fi_folder_details_size"
+msgstr "Størrelse"
+
+msgid "hfil_fi_folder_details_time"
+msgstr "Klokkeslæt"
+
+msgid "hfil_ia_select_application_information"
+msgstr ""
+"Vælg et program på listen for at åbne filen\n"
+"'%s'."
+
+msgid "hfil_me_copy"
+msgstr "Kopiér"
+
+msgid "hfil_me_details"
+msgstr "Detaljer"
+
+msgid "hfil_me_format"
+msgstr "Format"
+
+msgid "hfil_me_memory_usage"
+msgstr "Hukommelsesbrug"
+
+msgid "hfil_me_move"
+msgstr "Flyt"
+
+msgid "hfil_me_new_folder"
+msgstr "Ny mappe"
+
+msgid "hfil_me_rename"
+msgstr "Omdøb"
+
+msgid "hfil_me_sort"
+msgstr "Sorter"
+
+msgid "hfil_nc_format_mmc"
+msgstr ""
+"Formater hukommelse? Alle hukommelseskortdata slettes under formatering."
+
+msgid "hfil_nw_preparing"
+msgstr "Forbereder"
+
+msgid "hfil_ti_copy_to"
+msgstr "Kopier til mappe"
+
+msgid "hfil_ti_edit_copy_to"
+msgstr "Vælg elementer, der skal kopieres"
+
+msgid "hfil_ti_edit_delete"
+msgstr "Vælg elementer, der skal slettes"
+
+msgid "hfil_ti_edit_move_to"
+msgstr "Vælg elementer, der skal flyttes"
+
+msgid "hfil_ti_edit_share"
+msgstr "Vælg elementer, der skal deles"
+
+msgid "hfil_ti_folder_details"
+msgstr "Mappedetaljer"
+
+msgid "hfil_ti_select_application"
+msgstr "Vælg program"
+
+msgid "hfil_va_folder_details_size_bytes%d"
+msgstr "%d B"
+
+msgid "hfil_va_folder_details_size_kb%d"
+msgstr "%d kB"
+
+msgid "sfil_ap_name"
+msgstr "Filstyring"
+
+msgid "sfil_fi_folder_details_contents"
+msgstr "%s, %s"
+
+msgid "sfil_fi_folder_details_contents_00"
+msgstr "Ingen"
+
+msgid "sfil_fi_folder_details_contents_file"
+msgid_plural "sfil_fi_folder_details_contents_files"
+msgstr[0] "%d fil"
+msgstr[1] "%d filer"
+
+msgid "sfil_fi_folder_details_contents_folder"
+msgid_plural "sfil_fi_folder_details_contents_folders"
+msgstr[0] "%d mappe"
+msgstr[1] "%d mapper"
+
+msgid "sfil_ib_cannot_duplicate_file"
+msgstr "Kan ikke kopiere filen"
+
+msgid "sfil_ib_cannot_duplicate_folder"
+msgstr "Kan ikke kopiere mappen"
+
+msgid "sfil_ib_card_name_in_use_for_file"
+msgstr "Navnet er allerede i brug til element i rodmappen"
+
+msgid "sfil_ib_not_allowed"
+msgstr "Ikke tilladt"
+
+msgid "sfil_ib_unable_to_continue_read_only_folder"
+msgstr ""
+"Kan ikke fortsætte.\n"
+"Skrivebeskyttet mappe %s"
+
+msgid "sfil_nc_delete_partially_read_only_items"
+msgstr ""
+"Nogle elementer er skrivebeskyttede.\n"
+"Slet valgte elementer?"
+
+msgid "sfil_ni_cannot_copy_some_items"
+msgstr "Kan ikke kopiere nogle elementer"
+
+msgid "sfil_ni_cannot_delete_some_items"
+msgstr "Kan ikke slette nogle elementer"
+
+msgid "sfil_ni_cannot_duplicate_file_not_found"
+msgstr ""
+"Kan ikke kopiere.\n"
+"Filen blev ikke fundet."
+
+msgid "sfil_ni_cannot_duplicate_folder_not_found"
+msgstr ""
+"Kan ikke kopiere.\n"
+"Mappen blev ikke fundet."
+
+msgid "sfil_ni_cannot_move_file_not_found"
+msgstr ""
+"Kan ikke flytte.\n"
+"Filen blev ikke fundet."
+
+msgid "sfil_ni_cannot_move_items_not_found"
+msgstr ""
+"Kan ikke flytte.\n"
+"Elementerne blev ikke fundet."
+
+msgid "sfil_ni_cannot_move_no_connection"
+msgstr ""
+"Flytning blev afbrudt.\n"
+"Forbindelsen mislykkedes."
+
+msgid "sfil_ni_cannot_move_some_items"
+msgstr "Kan ikke flytte nogle elementer"
+
+msgid "sfil_ni_cannot_open_no_resource"
+msgstr ""
+"Kan ikke åbnes.\n"
+"Ikke tilstrækkelige systemressourcer."
+
+msgid "sfil_ni_cannot_rename_folder_not_found"
+msgstr ""
+"Kan ikke omdøbe.\n"
+"Mappen blev ikke fundet."
+
+msgid "sfil_ni_mmc_format_mmc_in_use"
+msgstr ""
+"Kan ikke formatere.\n"
+"Hukommelse er i brug."
+
+msgid "sfil_ni_mmc_rename_mmc_in_use"
+msgstr ""
+"Kan ikke omdøbe.\n"
+"Hukommelseskortet er i brug."
+
+msgid "sfil_ni_selected_item_in_use"
+msgstr "Det valgte element er i brug"
+
+msgid "sfil_ni_selected_items_in_use"
+msgstr "De valgte elementer er i brug"
+
+msgid "sfil_ni_some_selected_items_in_use"
+msgstr "Nogle af de valgte elementer er i brug"
+
+msgid "sfil_ti_name"
+msgstr "Filstyring"
+
+msgid "sfil_ti_rename_mmc"
+msgstr "Omdøb hukommelseskort"

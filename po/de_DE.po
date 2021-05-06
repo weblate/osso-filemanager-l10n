@@ -1,0 +1,258 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-filemanager 20090615131440\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.15 13:14+0300\n"
+"PO-Revision-Date: 2009.06.15 13:14+0300\n"
+"Last-Translator:\n"
+"Language-Team: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "docm_li_sort_date_newest"
+msgstr "Datum (aktuellstes zuerst)"
+
+msgid "docm_li_sort_date_oldest"
+msgstr "Datum (ältestes zuerst)"
+
+msgid "docm_li_sort_name_az"
+msgstr "Name (A-Z)"
+
+msgid "docm_li_sort_name_za"
+msgstr "Name (Z-A)"
+
+msgid "docm_li_sort_size_largest"
+msgstr "Größe (größte zuerst)"
+
+msgid "docm_li_sort_size_smallest"
+msgstr "Größe (kleinste zuerst)"
+
+msgid "docm_nc_delete_file"
+msgstr "Datei löschen?"
+
+msgid "docm_nc_delete_files"
+msgstr "Ausgewählte Dateien löschen?"
+
+msgid "docm_nc_delete_folder"
+msgstr "Ordner samt Inhalt löschen?"
+
+msgid "docm_nc_delete_folder_and_file"
+msgstr "Ausgewählten Ordner und Datei löschen?"
+
+msgid "docm_nc_delete_folder_and_files"
+msgstr "Ausgewählten Ordner und Dateien löschen?"
+
+msgid "docm_nc_delete_folders"
+msgstr "Ausgewählte Ordner samt Inhalt löschen?"
+
+msgid "docm_nc_delete_folders_and_file"
+msgstr "Ausgewählte Ordner und Datei löschen?"
+
+msgid "docm_nc_delete_folders_and_files"
+msgstr "Ausgewählte Ordner und Dateien löschen?"
+
+msgid "docm_nc_replace_folder"
+msgstr "Gleichnamigen vorhandenen Ordner ersetzen?"
+
+msgid "docm_nw_duplicating_file"
+msgstr "Wird kopiert"
+
+msgid "hfil_ai_formatted_memory_card"
+msgstr "Speicherkarte"
+
+msgid "hfil_fi_folder_details_contents"
+msgstr "Inhalt"
+
+msgid "hfil_fi_folder_details_date"
+msgstr "Datum"
+
+msgid "hfil_fi_folder_details_device"
+msgstr "Datenspeicher"
+
+msgid "hfil_fi_folder_details_location"
+msgstr "Speicherort"
+
+msgid "hfil_fi_folder_details_name"
+msgstr "Name"
+
+msgid "hfil_fi_folder_details_size"
+msgstr "Größe"
+
+msgid "hfil_fi_folder_details_time"
+msgstr "Uhrzeit"
+
+msgid "hfil_ia_select_application_information"
+msgstr ""
+"Programm zum Öffnen der Datei \n"
+"'%s' aus der Liste auswählen"
+
+msgid "hfil_me_copy"
+msgstr "Kopieren"
+
+msgid "hfil_me_details"
+msgstr "Details"
+
+msgid "hfil_me_format"
+msgstr "Formatieren"
+
+msgid "hfil_me_memory_usage"
+msgstr "Speicherbelegung"
+
+msgid "hfil_me_move"
+msgstr "Verschieben"
+
+msgid "hfil_me_new_folder"
+msgstr "Neuer Ordner"
+
+msgid "hfil_me_rename"
+msgstr "Umbenennen"
+
+msgid "hfil_me_sort"
+msgstr "Sortieren"
+
+msgid "hfil_nc_format_mmc"
+msgstr ""
+"Speicher formatieren? Bei der Formatierung werden alle Daten auf der "
+"Speicherkarte gelöscht."
+
+msgid "hfil_nw_preparing"
+msgstr "Wird vorbereitet"
+
+msgid "hfil_ti_copy_to"
+msgstr "In Ordner kopieren"
+
+msgid "hfil_ti_edit_copy_to"
+msgstr "Zu kopierende Objekte auswählen"
+
+msgid "hfil_ti_edit_delete"
+msgstr "Zu löschende Objekte auswählen"
+
+msgid "hfil_ti_edit_move_to"
+msgstr "Zu verschiebende Objekte auswählen"
+
+msgid "hfil_ti_edit_share"
+msgstr "Objekte zur Freigabe auswählen"
+
+msgid "hfil_ti_folder_details"
+msgstr "Ordnerdetails"
+
+msgid "hfil_ti_select_application"
+msgstr "Programm auswählen"
+
+msgid "hfil_va_folder_details_size_bytes%d"
+msgstr "%d B"
+
+msgid "hfil_va_folder_details_size_kb%d"
+msgstr "%d KB"
+
+msgid "sfil_ap_name"
+msgstr "Dateimanager"
+
+msgid "sfil_fi_folder_details_contents"
+msgstr "%s, %s"
+
+msgid "sfil_fi_folder_details_contents_00"
+msgstr "Keine"
+
+msgid "sfil_fi_folder_details_contents_file"
+msgid_plural "sfil_fi_folder_details_contents_files"
+msgstr[0] "%d Datei"
+msgstr[1] "%d Dateien"
+
+msgid "sfil_fi_folder_details_contents_folder"
+msgid_plural "sfil_fi_folder_details_contents_folders"
+msgstr[0] "%d Ordner"
+msgstr[1] "%d Ordner"
+
+msgid "sfil_ib_cannot_duplicate_file"
+msgstr "Kopieren der Datei nicht möglich"
+
+msgid "sfil_ib_cannot_duplicate_folder"
+msgstr "Kopieren des Ordners nicht möglich"
+
+msgid "sfil_ib_card_name_in_use_for_file"
+msgstr "Name für Element in Stammordner bereits vorhanden"
+
+msgid "sfil_ib_not_allowed"
+msgstr "Nicht zulässig"
+
+msgid "sfil_ib_unable_to_continue_read_only_folder"
+msgstr ""
+"Fortfahren nicht möglich.\n"
+"Ordner '%s' schreibgeschützt"
+
+msgid "sfil_nc_delete_partially_read_only_items"
+msgstr ""
+"Einige Objekte sind schreibgeschützt.\n"
+"Ausgewählte Objekte löschen?"
+
+msgid "sfil_ni_cannot_copy_some_items"
+msgstr "Kopieren einiger Objekte nicht möglich"
+
+msgid "sfil_ni_cannot_delete_some_items"
+msgstr "Löschen einiger Objekte nicht möglich"
+
+msgid "sfil_ni_cannot_duplicate_file_not_found"
+msgstr ""
+"Kopieren nicht möglich.\n"
+"Datei nicht gefunden."
+
+msgid "sfil_ni_cannot_duplicate_folder_not_found"
+msgstr ""
+"Kopieren nicht möglich.\n"
+"Ordner nicht gefunden."
+
+msgid "sfil_ni_cannot_move_file_not_found"
+msgstr ""
+"Verschieben nicht möglich.\n"
+"Datei nicht gefunden."
+
+msgid "sfil_ni_cannot_move_items_not_found"
+msgstr ""
+"Verschieben nicht möglich.\n"
+"Objekte nicht gefunden."
+
+msgid "sfil_ni_cannot_move_no_connection"
+msgstr ""
+"Verschieben unterbrochen.\n"
+"Verbindung fehlgeschlagen."
+
+msgid "sfil_ni_cannot_move_some_items"
+msgstr "Verschieben einiger Objekte nicht möglich"
+
+msgid "sfil_ni_cannot_open_no_resource"
+msgstr ""
+"Öffnen nicht möglich.\n"
+"Nicht genügend Systemressourcen."
+
+msgid "sfil_ni_cannot_rename_folder_not_found"
+msgstr ""
+"Umbenennen nicht möglich.\n"
+"Ordner nicht gefunden."
+
+msgid "sfil_ni_mmc_format_mmc_in_use"
+msgstr ""
+"Formatieren nicht möglich.\n"
+"Speicher wird bereits verwendet."
+
+msgid "sfil_ni_mmc_rename_mmc_in_use"
+msgstr ""
+"Umbenennen nicht möglich.\n"
+"Speicherkarte wird bereits verwendet."
+
+msgid "sfil_ni_selected_item_in_use"
+msgstr "Ausgewähltes Objekt wird bereits verwendet"
+
+msgid "sfil_ni_selected_items_in_use"
+msgstr "Ausgewählte Objekte werden bereits verwendet"
+
+msgid "sfil_ni_some_selected_items_in_use"
+msgstr "Einige der ausgewählten Objekte werden bereits verwendet."
+
+msgid "sfil_ti_name"
+msgstr "Dateimanager"
+
+msgid "sfil_ti_rename_mmc"
+msgstr "Speicherkarte umbenennen"

@@ -1,0 +1,259 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-filemanager 20090615131440\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.15 13:14+0300\n"
+"PO-Revision-Date: 2009.06.15 13:14+0300\n"
+"Last-Translator:\n"
+"Language-Team: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "docm_li_sort_date_newest"
+msgstr "Datum (recentste eerst)"
+
+msgid "docm_li_sort_date_oldest"
+msgstr "Datum (oudste eerst)"
+
+msgid "docm_li_sort_name_az"
+msgstr "Naam (A-Z)"
+
+msgid "docm_li_sort_name_za"
+msgstr "Naam (Z-A)"
+
+msgid "docm_li_sort_size_largest"
+msgstr "Grootte (grootste eerst)"
+
+msgid "docm_li_sort_size_smallest"
+msgstr "Grootte (kleinste eerst)"
+
+msgid "docm_nc_delete_file"
+msgstr "Bestand verwijderen?"
+
+msgid "docm_nc_delete_files"
+msgstr "Geselecteerde bestanden verwijderen?"
+
+msgid "docm_nc_delete_folder"
+msgstr "Map met inhoud verwijderen?"
+
+msgid "docm_nc_delete_folder_and_file"
+msgstr "Geselecteerde map en bestand verwijderen?"
+
+msgid "docm_nc_delete_folder_and_files"
+msgstr "Geselecteerde map en bestanden verwijderen?"
+
+msgid "docm_nc_delete_folders"
+msgstr "Geselecteerde mappen met inhoud verwijderen?"
+
+msgid "docm_nc_delete_folders_and_file"
+msgstr "Geselecteerde mappen en bestand verwijderen?"
+
+msgid "docm_nc_delete_folders_and_files"
+msgstr "Geselecteerde mappen en bestanden verwijderen?"
+
+msgid "docm_nc_replace_folder"
+msgstr "Bestaande map met dezelfde naam vervangen?"
+
+msgid "docm_nw_duplicating_file"
+msgstr "Bezig met kopiëren"
+
+msgid "hfil_ai_formatted_memory_card"
+msgstr "Geheugenkaart"
+
+msgid "hfil_fi_folder_details_contents"
+msgstr "Inhoudsopgave"
+
+msgid "hfil_fi_folder_details_date"
+msgstr "Datum"
+
+msgid "hfil_fi_folder_details_device"
+msgstr "Opslag"
+
+msgid "hfil_fi_folder_details_location"
+msgstr "Locatie"
+
+msgid "hfil_fi_folder_details_name"
+msgstr "Naam"
+
+msgid "hfil_fi_folder_details_size"
+msgstr "Grootte"
+
+msgid "hfil_fi_folder_details_time"
+msgstr "Tijd"
+
+msgid "hfil_ia_select_application_information"
+msgstr ""
+"Selecteer een toepassing uit de lijst om het bestand\n"
+"'%s'\n"
+"mee te openen."
+
+msgid "hfil_me_copy"
+msgstr "Kopiëren"
+
+msgid "hfil_me_details"
+msgstr "Details"
+
+msgid "hfil_me_format"
+msgstr "Formatteren"
+
+msgid "hfil_me_memory_usage"
+msgstr "Geheugengebruik"
+
+msgid "hfil_me_move"
+msgstr "Verplaatsen"
+
+msgid "hfil_me_new_folder"
+msgstr "Nieuwe map"
+
+msgid "hfil_me_rename"
+msgstr "Wijzig naam"
+
+msgid "hfil_me_sort"
+msgstr "Sorteren"
+
+msgid "hfil_nc_format_mmc"
+msgstr ""
+"Geheugen formatteren? Alle gegevens op de geheugenkaart worden tijdens het "
+"formatteren verwijderd."
+
+msgid "hfil_nw_preparing"
+msgstr "Bezig met voorbereiden"
+
+msgid "hfil_ti_copy_to"
+msgstr "Naar map kopiëren"
+
+msgid "hfil_ti_edit_copy_to"
+msgstr "Te kopiëren items kiezen"
+
+msgid "hfil_ti_edit_delete"
+msgstr "Te verwijderen items kiezen"
+
+msgid "hfil_ti_edit_move_to"
+msgstr "Te verplaatsen items kiezen"
+
+msgid "hfil_ti_edit_share"
+msgstr "Te delen items kiezen"
+
+msgid "hfil_ti_folder_details"
+msgstr "Details van map"
+
+msgid "hfil_ti_select_application"
+msgstr "Toepassing selecteren"
+
+msgid "hfil_va_folder_details_size_bytes%d"
+msgstr "%d B"
+
+msgid "hfil_va_folder_details_size_kb%d"
+msgstr "%d kB"
+
+msgid "sfil_ap_name"
+msgstr "Bestandsbeheer"
+
+msgid "sfil_fi_folder_details_contents"
+msgstr "%s, %s"
+
+msgid "sfil_fi_folder_details_contents_00"
+msgstr "Geen"
+
+msgid "sfil_fi_folder_details_contents_file"
+msgid_plural "sfil_fi_folder_details_contents_files"
+msgstr[0] "%d bestand"
+msgstr[1] "%d bestanden"
+
+msgid "sfil_fi_folder_details_contents_folder"
+msgid_plural "sfil_fi_folder_details_contents_folders"
+msgstr[0] "%d map"
+msgstr[1] "%d mappen"
+
+msgid "sfil_ib_cannot_duplicate_file"
+msgstr "Kan bestand niet kopiëren"
+
+msgid "sfil_ib_cannot_duplicate_folder"
+msgstr "Kan map niet kopiëren"
+
+msgid "sfil_ib_card_name_in_use_for_file"
+msgstr "De naam wordt al gebruikt voor een item in de hoofdmap"
+
+msgid "sfil_ib_not_allowed"
+msgstr "Niet toegestaan"
+
+msgid "sfil_ib_unable_to_continue_read_only_folder"
+msgstr ""
+"Kan niet doorgaan.\n"
+"Map %s is alleen-lezen"
+
+msgid "sfil_nc_delete_partially_read_only_items"
+msgstr ""
+"Bepaalde items zijn alleen-lezen.\n"
+"Geselecteerde items verwijderen?"
+
+msgid "sfil_ni_cannot_copy_some_items"
+msgstr "Kan bepaalde items niet kopiëren"
+
+msgid "sfil_ni_cannot_delete_some_items"
+msgstr "Kan bepaalde items niet verwijderen"
+
+msgid "sfil_ni_cannot_duplicate_file_not_found"
+msgstr ""
+"Kan niet kopiëren.\n"
+"Bestand niet gevonden."
+
+msgid "sfil_ni_cannot_duplicate_folder_not_found"
+msgstr ""
+"Kan niet kopiëren.\n"
+"Map niet gevonden."
+
+msgid "sfil_ni_cannot_move_file_not_found"
+msgstr ""
+"Kan niet verplaatsen.\n"
+"Bestand niet gevonden."
+
+msgid "sfil_ni_cannot_move_items_not_found"
+msgstr ""
+"Kan niet verplaatsen.\n"
+"Items niet gevonden."
+
+msgid "sfil_ni_cannot_move_no_connection"
+msgstr ""
+"Kan niet verplaatsen.\n"
+"Verbinding is mislukt."
+
+msgid "sfil_ni_cannot_move_some_items"
+msgstr "Kan bepaalde items niet verplaatsen"
+
+msgid "sfil_ni_cannot_open_no_resource"
+msgstr ""
+"Kan niet openen.\n"
+"Onvoldoende systeembronnen."
+
+msgid "sfil_ni_cannot_rename_folder_not_found"
+msgstr ""
+"Kan naam niet wijzigen.\n"
+"Map niet gevonden."
+
+msgid "sfil_ni_mmc_format_mmc_in_use"
+msgstr ""
+"Kan niet formatteren.\n"
+"Geheugen is in gebruik."
+
+msgid "sfil_ni_mmc_rename_mmc_in_use"
+msgstr ""
+"Kan naam niet wijzigen.\n"
+"Geheugenkaart is in gebruik."
+
+msgid "sfil_ni_selected_item_in_use"
+msgstr "Geselecteerd item is in gebruik"
+
+msgid "sfil_ni_selected_items_in_use"
+msgstr "Geselecteerde items zijn in gebruik"
+
+msgid "sfil_ni_some_selected_items_in_use"
+msgstr "Bepaalde geselecteerde items zijn in gebruik"
+
+msgid "sfil_ti_name"
+msgstr "Bestandsbeheer"
+
+msgid "sfil_ti_rename_mmc"
+msgstr "Naam van geheugenkaart wijzigen"

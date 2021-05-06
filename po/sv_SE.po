@@ -1,0 +1,258 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-filemanager 20090615131440\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.15 13:14+0300\n"
+"PO-Revision-Date: 2009.06.15 13:14+0300\n"
+"Last-Translator:\n"
+"Language-Team: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "docm_li_sort_date_newest"
+msgstr "Datum (senaste först)"
+
+msgid "docm_li_sort_date_oldest"
+msgstr "Datum (tidigaste först)"
+
+msgid "docm_li_sort_name_az"
+msgstr "Namn (A-Ö)"
+
+msgid "docm_li_sort_name_za"
+msgstr "Namn (Ö-A)"
+
+msgid "docm_li_sort_size_largest"
+msgstr "Storlek (största först)"
+
+msgid "docm_li_sort_size_smallest"
+msgstr "Storlek (minsta först)"
+
+msgid "docm_nc_delete_file"
+msgstr "Vill du ta bort filen?"
+
+msgid "docm_nc_delete_files"
+msgstr "Vill du ta bort valda filer?"
+
+msgid "docm_nc_delete_folder"
+msgstr "Vill du ta bort mappen med innehåll?"
+
+msgid "docm_nc_delete_folder_and_file"
+msgstr "Vill du ta bort vald mapp och fil?"
+
+msgid "docm_nc_delete_folder_and_files"
+msgstr "Vill du ta bort vald mapp och filer?"
+
+msgid "docm_nc_delete_folders"
+msgstr "Vill du ta bort valda mappar med innehåll?"
+
+msgid "docm_nc_delete_folders_and_file"
+msgstr "Vill du ta bort valda mappar och fil?"
+
+msgid "docm_nc_delete_folders_and_files"
+msgstr "Vill du ta bort valda mappar och filer?"
+
+msgid "docm_nc_replace_folder"
+msgstr "Vill du ersätta befintlig mapp med samma namn?"
+
+msgid "docm_nw_duplicating_file"
+msgstr "Kopierar"
+
+msgid "hfil_ai_formatted_memory_card"
+msgstr "Minneskort"
+
+msgid "hfil_fi_folder_details_contents"
+msgstr "Innehåll"
+
+msgid "hfil_fi_folder_details_date"
+msgstr "Datum"
+
+msgid "hfil_fi_folder_details_device"
+msgstr "Lagring"
+
+msgid "hfil_fi_folder_details_location"
+msgstr "Plats"
+
+msgid "hfil_fi_folder_details_name"
+msgstr "Namn"
+
+msgid "hfil_fi_folder_details_size"
+msgstr "Storlek"
+
+msgid "hfil_fi_folder_details_time"
+msgstr "Tid"
+
+msgid "hfil_ia_select_application_information"
+msgstr ""
+"Välj ett program i listan för att öppna filen\n"
+"'%s'"
+
+msgid "hfil_me_copy"
+msgstr "Kopiera"
+
+msgid "hfil_me_details"
+msgstr "Information"
+
+msgid "hfil_me_format"
+msgstr "Formatera"
+
+msgid "hfil_me_memory_usage"
+msgstr "Minnesanvändning"
+
+msgid "hfil_me_move"
+msgstr "Flytta"
+
+msgid "hfil_me_new_folder"
+msgstr "Ny mapp"
+
+msgid "hfil_me_rename"
+msgstr "Ändra namn"
+
+msgid "hfil_me_sort"
+msgstr "Sortera"
+
+msgid "hfil_nc_format_mmc"
+msgstr ""
+"Vill du formatera minnet? Alla data på minneskortet tas bort vid "
+"formateringen."
+
+msgid "hfil_nw_preparing"
+msgstr "Förbereder"
+
+msgid "hfil_ti_copy_to"
+msgstr "Kopiera till mapp"
+
+msgid "hfil_ti_edit_copy_to"
+msgstr "Välj objekt som ska kopieras"
+
+msgid "hfil_ti_edit_delete"
+msgstr "Välj objekt som ska tas bort"
+
+msgid "hfil_ti_edit_move_to"
+msgstr "Välj objekt som ska flyttas"
+
+msgid "hfil_ti_edit_share"
+msgstr "Välj objekt som ska delas"
+
+msgid "hfil_ti_folder_details"
+msgstr "Mappinformation"
+
+msgid "hfil_ti_select_application"
+msgstr "Välj ett program"
+
+msgid "hfil_va_folder_details_size_bytes%d"
+msgstr "%d B"
+
+msgid "hfil_va_folder_details_size_kb%d"
+msgstr "%d kB"
+
+msgid "sfil_ap_name"
+msgstr "Filhanteraren"
+
+msgid "sfil_fi_folder_details_contents"
+msgstr "%s, %s"
+
+msgid "sfil_fi_folder_details_contents_00"
+msgstr "Ingen"
+
+msgid "sfil_fi_folder_details_contents_file"
+msgid_plural "sfil_fi_folder_details_contents_files"
+msgstr[0] "%d fil"
+msgstr[1] "%d filer"
+
+msgid "sfil_fi_folder_details_contents_folder"
+msgid_plural "sfil_fi_folder_details_contents_folders"
+msgstr[0] "%d mapp"
+msgstr[1] "%d mappar"
+
+msgid "sfil_ib_cannot_duplicate_file"
+msgstr "Det gick inte att kopiera filen"
+
+msgid "sfil_ib_cannot_duplicate_folder"
+msgstr "Det gick inte att kopiera mappen"
+
+msgid "sfil_ib_card_name_in_use_for_file"
+msgstr "Namnet används redan för ett objekt i rotmappen"
+
+msgid "sfil_ib_not_allowed"
+msgstr "Inte tillåtet"
+
+msgid "sfil_ib_unable_to_continue_read_only_folder"
+msgstr ""
+"Det gick inte att fortsätta.\n"
+"Mappen %s är skrivskyddad"
+
+msgid "sfil_nc_delete_partially_read_only_items"
+msgstr ""
+"Vissa objekt är skrivskyddade.\n"
+"Vill du ta bort valda objekt?"
+
+msgid "sfil_ni_cannot_copy_some_items"
+msgstr "Det gick inte att kopiera vissa objekt"
+
+msgid "sfil_ni_cannot_delete_some_items"
+msgstr "Det gick inte att ta bort vissa objekt"
+
+msgid "sfil_ni_cannot_duplicate_file_not_found"
+msgstr ""
+"Det gick inte att kopiera.\n"
+"Filen hittades inte."
+
+msgid "sfil_ni_cannot_duplicate_folder_not_found"
+msgstr ""
+"Det gick inte att kopiera.\n"
+"Mappen hittades inte."
+
+msgid "sfil_ni_cannot_move_file_not_found"
+msgstr ""
+"Det gick inte att flytta.\n"
+"Filen hittades inte."
+
+msgid "sfil_ni_cannot_move_items_not_found"
+msgstr ""
+"Det gick inte att flytta.\n"
+"Objekten hittades inte."
+
+msgid "sfil_ni_cannot_move_no_connection"
+msgstr ""
+"Flyttningen avbröts.\n"
+"Anslutningen misslyckades."
+
+msgid "sfil_ni_cannot_move_some_items"
+msgstr "Det gick inte att flytta vissa objekt"
+
+msgid "sfil_ni_cannot_open_no_resource"
+msgstr ""
+"Det gick inte att öppna.\n"
+"Otillräckligt med systemresurser."
+
+msgid "sfil_ni_cannot_rename_folder_not_found"
+msgstr ""
+"Det gick inte att ändra namn.\n"
+"Mappen hittades inte."
+
+msgid "sfil_ni_mmc_format_mmc_in_use"
+msgstr ""
+"Det gick inte att formatera.\n"
+"Minnet används."
+
+msgid "sfil_ni_mmc_rename_mmc_in_use"
+msgstr ""
+"Det gick inte att ändra namn.\n"
+"Minneskortet används."
+
+msgid "sfil_ni_selected_item_in_use"
+msgstr "Det valda objektet används"
+
+msgid "sfil_ni_selected_items_in_use"
+msgstr "De valda objekten används"
+
+msgid "sfil_ni_some_selected_items_in_use"
+msgstr "Några av de valda objekten används"
+
+msgid "sfil_ti_name"
+msgstr "Filhanteraren"
+
+msgid "sfil_ti_rename_mmc"
+msgstr "Ändra namn"

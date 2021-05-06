@@ -1,0 +1,261 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-filemanager 20090615131440\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.15 13:14+0300\n"
+"PO-Revision-Date: 2009.06.15 13:14+0300\n"
+"Last-Translator:\n"
+"Language-Team: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2\n"
+
+msgid "docm_li_sort_date_newest"
+msgstr "по дате (начиная с самых новых)"
+
+msgid "docm_li_sort_date_oldest"
+msgstr "по дате (начиная с самых старых)"
+
+msgid "docm_li_sort_name_az"
+msgstr "по имени (А-Я)"
+
+msgid "docm_li_sort_name_za"
+msgstr "по имени (Я-А)"
+
+msgid "docm_li_sort_size_largest"
+msgstr "по размеру (начиная с самых больших)"
+
+msgid "docm_li_sort_size_smallest"
+msgstr "по размеру (начиная с самых маленьких)"
+
+msgid "docm_nc_delete_file"
+msgstr "Удалить файл?"
+
+msgid "docm_nc_delete_files"
+msgstr "Удалить выбранные файлы?"
+
+msgid "docm_nc_delete_folder"
+msgstr "Удалить папку и ее содержимое?"
+
+msgid "docm_nc_delete_folder_and_file"
+msgstr "Удалить выбранную папку и файл?"
+
+msgid "docm_nc_delete_folder_and_files"
+msgstr "Удалить выбранную папку и файлы?"
+
+msgid "docm_nc_delete_folders"
+msgstr "Удалить выбранные папки и их содержимое?"
+
+msgid "docm_nc_delete_folders_and_file"
+msgstr "Удалить выбранные папки и файл?"
+
+msgid "docm_nc_delete_folders_and_files"
+msgstr "Удалить выбранные папки и файлы?"
+
+msgid "docm_nc_replace_folder"
+msgstr "Заменить существующую папку с тем же именем?"
+
+msgid "docm_nw_duplicating_file"
+msgstr "Копирование"
+
+msgid "hfil_ai_formatted_memory_card"
+msgstr "Карта памяти"
+
+msgid "hfil_fi_folder_details_contents"
+msgstr "Содержание"
+
+msgid "hfil_fi_folder_details_date"
+msgstr "Дата"
+
+msgid "hfil_fi_folder_details_device"
+msgstr "Хранилище"
+
+msgid "hfil_fi_folder_details_location"
+msgstr "Расположение"
+
+msgid "hfil_fi_folder_details_name"
+msgstr "Имя"
+
+msgid "hfil_fi_folder_details_size"
+msgstr "Размер"
+
+msgid "hfil_fi_folder_details_time"
+msgstr "Время"
+
+msgid "hfil_ia_select_application_information"
+msgstr ""
+"Выберите в списке приложение для открытия файла\n"
+"'%s'"
+
+msgid "hfil_me_copy"
+msgstr "Копировать"
+
+msgid "hfil_me_details"
+msgstr "Свойства"
+
+msgid "hfil_me_format"
+msgstr "Форматировать"
+
+msgid "hfil_me_memory_usage"
+msgstr "Использование памяти"
+
+msgid "hfil_me_move"
+msgstr "Переместить"
+
+msgid "hfil_me_new_folder"
+msgstr "Создать папку"
+
+msgid "hfil_me_rename"
+msgstr "Переименовать"
+
+msgid "hfil_me_sort"
+msgstr "Сортировать"
+
+msgid "hfil_nc_format_mmc"
+msgstr ""
+"Форматировать память? При форматировании все данные с карты памяти будут "
+"удалены."
+
+msgid "hfil_nw_preparing"
+msgstr "Подготовка"
+
+msgid "hfil_ti_copy_to"
+msgstr "Скопировать в папку"
+
+msgid "hfil_ti_edit_copy_to"
+msgstr "Выберите объекты для копирования"
+
+msgid "hfil_ti_edit_delete"
+msgstr "Выберите объекты для удаления"
+
+msgid "hfil_ti_edit_move_to"
+msgstr "Выберите объекты для перемещения"
+
+msgid "hfil_ti_edit_share"
+msgstr "Выберите объекты для обмена"
+
+msgid "hfil_ti_folder_details"
+msgstr "Свойства папки"
+
+msgid "hfil_ti_select_application"
+msgstr "Выбрать приложение"
+
+msgid "hfil_va_folder_details_size_bytes%d"
+msgstr "%d байт"
+
+msgid "hfil_va_folder_details_size_kb%d"
+msgstr "%d КБ"
+
+msgid "sfil_ap_name"
+msgstr "Файлы"
+
+msgid "sfil_fi_folder_details_contents"
+msgstr "%s, %s"
+
+msgid "sfil_fi_folder_details_contents_00"
+msgstr "Нет"
+
+msgid "sfil_fi_folder_details_contents_file"
+msgid_plural "sfil_fi_folder_details_contents_files"
+msgstr[0] "%d файл"
+msgstr[1] "%d файла"
+msgstr[2] "%d файлов"
+
+msgid "sfil_fi_folder_details_contents_folder"
+msgid_plural "sfil_fi_folder_details_contents_folders"
+msgstr[0] "%d папка"
+msgstr[1] "%d папки"
+msgstr[2] "%d папок"
+
+msgid "sfil_ib_cannot_duplicate_file"
+msgstr "Невозможно скопировать файл"
+
+msgid "sfil_ib_cannot_duplicate_folder"
+msgstr "Не удается скопировать папку"
+
+msgid "sfil_ib_card_name_in_use_for_file"
+msgstr "Это имя уже используется для элемента в другой папке"
+
+msgid "sfil_ib_not_allowed"
+msgstr "Недопустимо"
+
+msgid "sfil_ib_unable_to_continue_read_only_folder"
+msgstr ""
+"Не удается продолжить.\n"
+"Папка только для чтения %s"
+
+msgid "sfil_nc_delete_partially_read_only_items"
+msgstr ""
+"Некоторые объекты предназначены только для чтения.\n"
+"Удалить выбранные объекты?"
+
+msgid "sfil_ni_cannot_copy_some_items"
+msgstr "Не удается скопировать часть объектов"
+
+msgid "sfil_ni_cannot_delete_some_items"
+msgstr "Не удается удалить часть объектов"
+
+msgid "sfil_ni_cannot_duplicate_file_not_found"
+msgstr ""
+"Не удается скопировать.\n"
+"Файл не найден."
+
+msgid "sfil_ni_cannot_duplicate_folder_not_found"
+msgstr ""
+"Не удается скопировать.\n"
+"Папка не найдена."
+
+msgid "sfil_ni_cannot_move_file_not_found"
+msgstr ""
+"Не удается переименовать.\n"
+"Файл не найден."
+
+msgid "sfil_ni_cannot_move_items_not_found"
+msgstr ""
+"Не удается переместить.\n"
+"Объекты не найдены."
+
+msgid "sfil_ni_cannot_move_no_connection"
+msgstr ""
+"Перемещение прервано.\n"
+"Сбой соединения."
+
+msgid "sfil_ni_cannot_move_some_items"
+msgstr "Не удается переместить часть объектов"
+
+msgid "sfil_ni_cannot_open_no_resource"
+msgstr ""
+"Не удается открыть.\n"
+"Недостаточно ресурсов системы."
+
+msgid "sfil_ni_cannot_rename_folder_not_found"
+msgstr ""
+"Не удается переименовать.\n"
+"Папка не найдена."
+
+msgid "sfil_ni_mmc_format_mmc_in_use"
+msgstr ""
+"Не удается выполнить форматирование.\n"
+"Карта памяти используется."
+
+msgid "sfil_ni_mmc_rename_mmc_in_use"
+msgstr ""
+"Не удается выполнить переименование.\n"
+"Карта памяти используется."
+
+msgid "sfil_ni_selected_item_in_use"
+msgstr "Выбранный объект используется"
+
+msgid "sfil_ni_selected_items_in_use"
+msgstr "Выбранные объекты используются"
+
+msgid "sfil_ni_some_selected_items_in_use"
+msgstr "Некоторые из выбранных объектов используются"
+
+msgid "sfil_ti_name"
+msgstr "Файлы"
+
+msgid "sfil_ti_rename_mmc"
+msgstr "Переименовать карту памяти"

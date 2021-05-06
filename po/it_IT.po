@@ -1,0 +1,258 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-filemanager 20090615131440\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.15 13:14+0300\n"
+"PO-Revision-Date: 2009.06.15 13:14+0300\n"
+"Last-Translator:\n"
+"Language-Team: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "docm_li_sort_date_newest"
+msgstr "Data (decrescente)"
+
+msgid "docm_li_sort_date_oldest"
+msgstr "Data (crescente)"
+
+msgid "docm_li_sort_name_az"
+msgstr "Nome (A-Z)"
+
+msgid "docm_li_sort_name_za"
+msgstr "Nome (Z-A)"
+
+msgid "docm_li_sort_size_largest"
+msgstr "Dimensione (decrescente)"
+
+msgid "docm_li_sort_size_smallest"
+msgstr "Dimensione (crescente)"
+
+msgid "docm_nc_delete_file"
+msgstr "Eliminare il file?"
+
+msgid "docm_nc_delete_files"
+msgstr "Eliminare i file selezionati?"
+
+msgid "docm_nc_delete_folder"
+msgstr "Eliminare la cartella e il suo contenuto?"
+
+msgid "docm_nc_delete_folder_and_file"
+msgstr "Eliminare la cartella e il file selezionato?"
+
+msgid "docm_nc_delete_folder_and_files"
+msgstr "Eliminare la cartella e i file selezionati?"
+
+msgid "docm_nc_delete_folders"
+msgstr "Eliminare le cartelle selezionate e il relativo contenuto?"
+
+msgid "docm_nc_delete_folders_and_file"
+msgstr "Eliminare le cartelle e il file selezionato?"
+
+msgid "docm_nc_delete_folders_and_files"
+msgstr "Eliminare le cartelle e i file selezionati?"
+
+msgid "docm_nc_replace_folder"
+msgstr "Sostituire la cartella esistente con lo stesso nome?"
+
+msgid "docm_nw_duplicating_file"
+msgstr "Copia in corso"
+
+msgid "hfil_ai_formatted_memory_card"
+msgstr "Memory card"
+
+msgid "hfil_fi_folder_details_contents"
+msgstr "Contenuto"
+
+msgid "hfil_fi_folder_details_date"
+msgstr "Data"
+
+msgid "hfil_fi_folder_details_device"
+msgstr "Archiviazione"
+
+msgid "hfil_fi_folder_details_location"
+msgstr "Posizione"
+
+msgid "hfil_fi_folder_details_name"
+msgstr "Nome"
+
+msgid "hfil_fi_folder_details_size"
+msgstr "Dimensione"
+
+msgid "hfil_fi_folder_details_time"
+msgstr "Ora"
+
+msgid "hfil_ia_select_application_information"
+msgstr ""
+"Scegli un'applicazione dall'elenco per aprire file\n"
+"'%s'"
+
+msgid "hfil_me_copy"
+msgstr "Copia"
+
+msgid "hfil_me_details"
+msgstr "Dettagli"
+
+msgid "hfil_me_format"
+msgstr "Formatta"
+
+msgid "hfil_me_memory_usage"
+msgstr "Utilizzo memoria"
+
+msgid "hfil_me_move"
+msgstr "Sposta"
+
+msgid "hfil_me_new_folder"
+msgstr "Nuova cartella"
+
+msgid "hfil_me_rename"
+msgstr "Rinomina"
+
+msgid "hfil_me_sort"
+msgstr "Ordina"
+
+msgid "hfil_nc_format_mmc"
+msgstr ""
+"Formattare la memoria? Durante la formattazione tutti i dati della memory "
+"card verranno eliminati."
+
+msgid "hfil_nw_preparing"
+msgstr "Preparazione"
+
+msgid "hfil_ti_copy_to"
+msgstr "Copia in una cartella"
+
+msgid "hfil_ti_edit_copy_to"
+msgstr "Scegli gli elementi da copiare"
+
+msgid "hfil_ti_edit_delete"
+msgstr "Scegli gli elementi da eliminare"
+
+msgid "hfil_ti_edit_move_to"
+msgstr "Scegli gli elementi da spostare"
+
+msgid "hfil_ti_edit_share"
+msgstr "Scegli gli elementi da condividere"
+
+msgid "hfil_ti_folder_details"
+msgstr "Dettagli della cartella"
+
+msgid "hfil_ti_select_application"
+msgstr "Seleziona un'applicazione"
+
+msgid "hfil_va_folder_details_size_bytes%d"
+msgstr "%d B"
+
+msgid "hfil_va_folder_details_size_kb%d"
+msgstr "%d KB"
+
+msgid "sfil_ap_name"
+msgstr "Gestione file"
+
+msgid "sfil_fi_folder_details_contents"
+msgstr "%s, %s"
+
+msgid "sfil_fi_folder_details_contents_00"
+msgstr "Nessuna"
+
+msgid "sfil_fi_folder_details_contents_file"
+msgid_plural "sfil_fi_folder_details_contents_files"
+msgstr[0] "%d file"
+msgstr[1] "%d file"
+
+msgid "sfil_fi_folder_details_contents_folder"
+msgid_plural "sfil_fi_folder_details_contents_folders"
+msgstr[0] "%d cartella"
+msgstr[1] "%d cartelle"
+
+msgid "sfil_ib_cannot_duplicate_file"
+msgstr "Impossibile copiare il file"
+
+msgid "sfil_ib_cannot_duplicate_folder"
+msgstr "Impossibile copiare la cartella"
+
+msgid "sfil_ib_card_name_in_use_for_file"
+msgstr "Nome già in uso per un elemento nella cartella principale"
+
+msgid "sfil_ib_not_allowed"
+msgstr "Operazione non consentita"
+
+msgid "sfil_ib_unable_to_continue_read_only_folder"
+msgstr ""
+"Impossibile continuare.\n"
+"Cartella di sola lettura %s"
+
+msgid "sfil_nc_delete_partially_read_only_items"
+msgstr ""
+"Alcuni elementi sono di sola lettura.\n"
+"Eliminare gli elementi selezionati?"
+
+msgid "sfil_ni_cannot_copy_some_items"
+msgstr "Impossibile copiare alcuni elementi"
+
+msgid "sfil_ni_cannot_delete_some_items"
+msgstr "Impossibile eliminare alcuni elementi"
+
+msgid "sfil_ni_cannot_duplicate_file_not_found"
+msgstr ""
+"Impossibile copiare.\n"
+"File non trovato."
+
+msgid "sfil_ni_cannot_duplicate_folder_not_found"
+msgstr ""
+"Impossibile copiare.\n"
+"Cartella non trovata."
+
+msgid "sfil_ni_cannot_move_file_not_found"
+msgstr ""
+"Impossibile spostare.\n"
+"File non trovato."
+
+msgid "sfil_ni_cannot_move_items_not_found"
+msgstr ""
+"Impossibile spostare.\n"
+"Elementi non trovati."
+
+msgid "sfil_ni_cannot_move_no_connection"
+msgstr ""
+"Spostamento interrotto.\n"
+"Connessione non riuscita."
+
+msgid "sfil_ni_cannot_move_some_items"
+msgstr "Impossibile spostare alcuni elementi"
+
+msgid "sfil_ni_cannot_open_no_resource"
+msgstr ""
+"Impossibile aprire.\n"
+"Risorse di sistema insufficienti."
+
+msgid "sfil_ni_cannot_rename_folder_not_found"
+msgstr ""
+"Impossibile rinominare.\n"
+"Cartella non trovata."
+
+msgid "sfil_ni_mmc_format_mmc_in_use"
+msgstr ""
+"Impossibile formattare.\n"
+"Memoria in uso."
+
+msgid "sfil_ni_mmc_rename_mmc_in_use"
+msgstr ""
+"Impossibile rinominare.\n"
+"Memory card in uso."
+
+msgid "sfil_ni_selected_item_in_use"
+msgstr "Il file selezionato è attualmente in uso"
+
+msgid "sfil_ni_selected_items_in_use"
+msgstr "I file selezionati sono attualmente in uso"
+
+msgid "sfil_ni_some_selected_items_in_use"
+msgstr "Alcuni dei file selezionati sono attualmente in uso"
+
+msgid "sfil_ti_name"
+msgstr "Gestione file"
+
+msgid "sfil_ti_rename_mmc"
+msgstr "Rinomina la memory card"

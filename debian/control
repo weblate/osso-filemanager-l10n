@@ -1,0 +1,119 @@
+Source: osso-filemanager-l10n
+Section: misc
+Priority: optional
+Maintainer: Ivan J. <parazyd@dyne.org>
+Build-Depends: debhelper-compat (= 12), gettext
+Standards-Version: 4.3.0
+
+Package: osso-filemanager-l10n-mr0
+Section: misc
+Architecture: all
+Provides: osso-filemanager-l10n-mr
+Depends: osso-filemanager-l10n-ruru, osso-filemanager-l10n-frfr, osso-filemanager-l10n-frca, osso-filemanager-l10n-dadk, osso-filemanager-l10n-itit, osso-filemanager-l10n-svse, osso-filemanager-l10n-nono, osso-filemanager-l10n-fifi, osso-filemanager-l10n-nlnl, osso-filemanager-l10n-enus, osso-filemanager-l10n-dede, osso-filemanager-l10n-esmx, osso-filemanager-l10n-eses, osso-filemanager-l10n-cscz, osso-filemanager-l10n-ptpt, osso-filemanager-l10n-engb, osso-filemanager-l10n-plpl
+Description: osso-filemanager marketing release package
+ This is a metapackage for osso-filemanager to pull all the l10n packages.
+ Application developers of osso-filemanager should depend on
+ "osso-filemanager-l10n-mr0 | osso-filemanager-l10n-mr"
+ to ensure correct locales are getting installed.
+
+Package: osso-filemanager-l10n-cscz
+Section: misc
+Architecture: all
+Description: language files for osso-filemanager (cs_CZ)
+ Language files for cs_CZ osso-filemanager.
+
+Package: osso-filemanager-l10n-dadk
+Section: misc
+Architecture: all
+Description: language files for osso-filemanager (da_DK)
+ Language files for da_DK osso-filemanager.
+
+Package: osso-filemanager-l10n-dede
+Section: misc
+Architecture: all
+Description: language files for osso-filemanager (de_DE)
+ Language files for de_DE osso-filemanager.
+
+Package: osso-filemanager-l10n-engb
+Section: misc
+Architecture: all
+Description: language files for osso-filemanager (en_GB)
+ Language files for en_GB osso-filemanager.
+
+Package: osso-filemanager-l10n-enus
+Section: misc
+Architecture: all
+Description: language files for osso-filemanager (en_US)
+ Language files for en_US osso-filemanager.
+
+Package: osso-filemanager-l10n-eses
+Section: misc
+Architecture: all
+Description: language files for osso-filemanager (es_ES)
+ Language files for es_ES osso-filemanager.
+
+Package: osso-filemanager-l10n-esmx
+Section: misc
+Architecture: all
+Description: language files for osso-filemanager (es_MX)
+ Language files for es_MX osso-filemanager.
+
+Package: osso-filemanager-l10n-fifi
+Section: misc
+Architecture: all
+Description: language files for osso-filemanager (fi_FI)
+ Language files for fi_FI osso-filemanager.
+
+Package: osso-filemanager-l10n-frca
+Section: misc
+Architecture: all
+Description: language files for osso-filemanager (fr_CA)
+ Language files for fr_CA osso-filemanager.
+
+Package: osso-filemanager-l10n-frfr
+Section: misc
+Architecture: all
+Description: language files for osso-filemanager (fr_FR)
+ Language files for fr_FR osso-filemanager.
+
+Package: osso-filemanager-l10n-itit
+Section: misc
+Architecture: all
+Description: language files for osso-filemanager (it_IT)
+ Language files for it_IT osso-filemanager.
+
+Package: osso-filemanager-l10n-nlnl
+Section: misc
+Architecture: all
+Description: language files for osso-filemanager (nl_NL)
+ Language files for nl_NL osso-filemanager.
+
+Package: osso-filemanager-l10n-nono
+Section: misc
+Architecture: all
+Description: language files for osso-filemanager (no_NO)
+ Language files for no_NO osso-filemanager.
+
+Package: osso-filemanager-l10n-plpl
+Section: misc
+Architecture: all
+Description: language files for osso-filemanager (pl_PL)
+ Language files for pl_PL osso-filemanager.
+
+Package: osso-filemanager-l10n-ptpt
+Section: misc
+Architecture: all
+Description: language files for osso-filemanager (pt_PT)
+ Language files for pt_PT osso-filemanager.
+
+Package: osso-filemanager-l10n-ruru
+Section: misc
+Architecture: all
+Description: language files for osso-filemanager (ru_RU)
+ Language files for ru_RU osso-filemanager.
+
+Package: osso-filemanager-l10n-svse
+Section: misc
+Architecture: all
+Description: language files for osso-filemanager (sv_SE)
+ Language files for sv_SE osso-filemanager.

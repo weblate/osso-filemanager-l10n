@@ -1,0 +1,258 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-filemanager 20090615131440\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.15 13:14+0300\n"
+"PO-Revision-Date: 2009.06.15 13:14+0300\n"
+"Last-Translator:\n"
+"Language-Team: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "docm_li_sort_date_newest"
+msgstr "Päivämäärä (uusin ensin)"
+
+msgid "docm_li_sort_date_oldest"
+msgstr "Päivämäärä (vanhin ensin)"
+
+msgid "docm_li_sort_name_az"
+msgstr "Nimi (A-Ö)"
+
+msgid "docm_li_sort_name_za"
+msgstr "Nimi (Ö-A)"
+
+msgid "docm_li_sort_size_largest"
+msgstr "Koko (suurin ensin)"
+
+msgid "docm_li_sort_size_smallest"
+msgstr "Koko (pienin ensin)"
+
+msgid "docm_nc_delete_file"
+msgstr "Poistetaanko tiedosto?"
+
+msgid "docm_nc_delete_files"
+msgstr "Poistetaanko valitut tiedostot?"
+
+msgid "docm_nc_delete_folder"
+msgstr "Poistetaanko kansio ja sen sisältö?"
+
+msgid "docm_nc_delete_folder_and_file"
+msgstr "Poistetaanko valittu kansio ja tiedosto?"
+
+msgid "docm_nc_delete_folder_and_files"
+msgstr "Poistetaanko valittu kansio ja tiedostot?"
+
+msgid "docm_nc_delete_folders"
+msgstr "Poistetaanko valitut kansiot ja niiden sisältö?"
+
+msgid "docm_nc_delete_folders_and_file"
+msgstr "Poistetaanko valitut kansiot ja tiedosto?"
+
+msgid "docm_nc_delete_folders_and_files"
+msgstr "Poistetaanko valitut kansiot ja tiedostot?"
+
+msgid "docm_nc_replace_folder"
+msgstr "Korvataanko nykyinen samanniminen kansio?"
+
+msgid "docm_nw_duplicating_file"
+msgstr "Kopioidaan"
+
+msgid "hfil_ai_formatted_memory_card"
+msgstr "Muistikortti"
+
+msgid "hfil_fi_folder_details_contents"
+msgstr "Sisältö"
+
+msgid "hfil_fi_folder_details_date"
+msgstr "Päivämäärä"
+
+msgid "hfil_fi_folder_details_device"
+msgstr "Muisti"
+
+msgid "hfil_fi_folder_details_location"
+msgstr "Sijainti"
+
+msgid "hfil_fi_folder_details_name"
+msgstr "Nimi"
+
+msgid "hfil_fi_folder_details_size"
+msgstr "Koko"
+
+msgid "hfil_fi_folder_details_time"
+msgstr "Aika"
+
+msgid "hfil_ia_select_application_information"
+msgstr ""
+"Avaa tiedosto\n"
+"%s valitsemalla sovellus luettelosta"
+
+msgid "hfil_me_copy"
+msgstr "Kopioi"
+
+msgid "hfil_me_details"
+msgstr "Tiedot"
+
+msgid "hfil_me_format"
+msgstr "Alusta"
+
+msgid "hfil_me_memory_usage"
+msgstr "Muistin käyttö"
+
+msgid "hfil_me_move"
+msgstr "Siirrä"
+
+msgid "hfil_me_new_folder"
+msgstr "Uusi kansio"
+
+msgid "hfil_me_rename"
+msgstr "Nimeä uudell."
+
+msgid "hfil_me_sort"
+msgstr "Järjestä"
+
+msgid "hfil_nc_format_mmc"
+msgstr ""
+"Alustetaanko muisti? Alustuksen yhteydessä kaikki muistikortin tiedot "
+"poistuvat."
+
+msgid "hfil_nw_preparing"
+msgstr "Valmistellaan"
+
+msgid "hfil_ti_copy_to"
+msgstr "Kopioi kansioon"
+
+msgid "hfil_ti_edit_copy_to"
+msgstr "Valitse kopioitavat kohteet"
+
+msgid "hfil_ti_edit_delete"
+msgstr "Valitse poistettavat kohteet"
+
+msgid "hfil_ti_edit_move_to"
+msgstr "Valitse siirrettävät kohteet"
+
+msgid "hfil_ti_edit_share"
+msgstr "Valitse jaettavat kohteet"
+
+msgid "hfil_ti_folder_details"
+msgstr "Kansion tiedot"
+
+msgid "hfil_ti_select_application"
+msgstr "Valitse sovellus"
+
+msgid "hfil_va_folder_details_size_bytes%d"
+msgstr "%d t"
+
+msgid "hfil_va_folder_details_size_kb%d"
+msgstr "%d kt"
+
+msgid "sfil_ap_name"
+msgstr "Tiedostot"
+
+msgid "sfil_fi_folder_details_contents"
+msgstr "%s, %s"
+
+msgid "sfil_fi_folder_details_contents_00"
+msgstr "Ei mitään"
+
+msgid "sfil_fi_folder_details_contents_file"
+msgid_plural "sfil_fi_folder_details_contents_files"
+msgstr[0] "%d tiedosto"
+msgstr[1] "%d tiedostoa"
+
+msgid "sfil_fi_folder_details_contents_folder"
+msgid_plural "sfil_fi_folder_details_contents_folders"
+msgstr[0] "%d kansio"
+msgstr[1] "%d kansiota"
+
+msgid "sfil_ib_cannot_duplicate_file"
+msgstr "Tiedostoa ei voi kopioida"
+
+msgid "sfil_ib_cannot_duplicate_folder"
+msgstr "Kansiota ei voi kopioida"
+
+msgid "sfil_ib_card_name_in_use_for_file"
+msgstr "Nimi on jo käytössä pääkansiossa"
+
+msgid "sfil_ib_not_allowed"
+msgstr "Ei sallittu"
+
+msgid "sfil_ib_unable_to_continue_read_only_folder"
+msgstr ""
+"Ei voi jatkaa.\n"
+"Kansioon %s vain lukuoikeudet"
+
+msgid "sfil_nc_delete_partially_read_only_items"
+msgstr ""
+"Joihinkin kohteisiin on vain lukuoikeudet.\n"
+"Poistetaanko valitut kohteet?"
+
+msgid "sfil_ni_cannot_copy_some_items"
+msgstr "Joitakin kohteita ei voi kopioida"
+
+msgid "sfil_ni_cannot_delete_some_items"
+msgstr "Kaikkia kohteita ei voi poistaa"
+
+msgid "sfil_ni_cannot_duplicate_file_not_found"
+msgstr ""
+"Ei voi kopioida.\n"
+"Tiedostoa ei löydy."
+
+msgid "sfil_ni_cannot_duplicate_folder_not_found"
+msgstr ""
+"Ei voi kopioida.\n"
+"Kansiota ei löydy."
+
+msgid "sfil_ni_cannot_move_file_not_found"
+msgstr ""
+"Ei voi siirtää.\n"
+"Tiedostoa ei löydy."
+
+msgid "sfil_ni_cannot_move_items_not_found"
+msgstr ""
+"Ei voi siirtää.\n"
+"Kohteita ei löydy."
+
+msgid "sfil_ni_cannot_move_no_connection"
+msgstr ""
+"Siirtäminen keskeytetty.\n"
+"Yhteysvirhe."
+
+msgid "sfil_ni_cannot_move_some_items"
+msgstr "Joitakin kohteita ei voi siirtää"
+
+msgid "sfil_ni_cannot_open_no_resource"
+msgstr ""
+"Ei voi avata.\n"
+"Järjestelmäresurssit eivät riitä."
+
+msgid "sfil_ni_cannot_rename_folder_not_found"
+msgstr ""
+"Ei voi nimetä uudelleen.\n"
+"Kansiota ei löydy."
+
+msgid "sfil_ni_mmc_format_mmc_in_use"
+msgstr ""
+"Ei voi alustaa.\n"
+"Muisti on käytössä."
+
+msgid "sfil_ni_mmc_rename_mmc_in_use"
+msgstr ""
+"Ei voi nimetä uudelleen.\n"
+"Muistikortti on käytössä."
+
+msgid "sfil_ni_selected_item_in_use"
+msgstr "Valittu kohde on käytössä"
+
+msgid "sfil_ni_selected_items_in_use"
+msgstr "Valitut kohteet ovat käytössä"
+
+msgid "sfil_ni_some_selected_items_in_use"
+msgstr "Osa valituista kohteista on käytössä"
+
+msgid "sfil_ti_name"
+msgstr "Tiedostot"
+
+msgid "sfil_ti_rename_mmc"
+msgstr "Nimeä muistikortti uudelleen"
