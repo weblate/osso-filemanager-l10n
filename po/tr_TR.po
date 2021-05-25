@@ -1,0 +1,360 @@
+#
+# This file is part of osso-filemanager-l10n-public
+#
+# Copyright (C) 2006-2007 Nokia Corporation. All rights reserved.
+#
+# Contact: Mohammed Hassan <mohammed.2.hassan@nokia.com>
+#
+# Redistribution and use in source and binary forms, with or without modification,
+# are permitted provided that the following conditions are met:
+#
+#     Redistributions of source code must retain the above copyright notice,
+#     this list of conditions and the following disclaimer.
+#     Redistributions in binary form must reproduce the above copyright notice,
+#     this list of conditions and the following disclaimer in the documentation and/or
+#     other materials provided with the distribution.
+#     Neither the name of Nokia Corporation nor the names of its contributors may be used
+#     to endorse or promote products derived from this software without specific prior written
+#     permission.
+#
+# THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR
+# IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY
+# AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER
+# OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+# CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+# SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+# THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
+# OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+# POSSIBILITY OF SUCH DAMAGE.
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-filemanager 20090615131440\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.15 13:14+0300\n"
+"PO-Revision-Date: 2010-05-29 21:25+0200\n"
+"Last-Translator: Aranel Surion <aranel@aranelsurion.org>\n"
+"Language-Team: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+# Application name for File manager application may be abbreviated.
+msgid "sfil_ap_name"
+msgstr "Dosya yöneticisi"
+
+# Application name to be used in the title area, where no abbreviations are needed.
+msgid "sfil_ti_name"
+msgstr "Dosya yöneticisi"
+
+# Edit mode toolbar title
+msgid "hfil_ti_edit_move_to"
+msgstr "Taşınacak öğeleri seçin"
+
+# Edit mode toolbar title
+msgid "hfil_ti_edit_copy_to"
+msgstr "Kopyalanacak öğeleri seçin"
+
+# Edit mode toolbar title
+msgid "hfil_ti_edit_delete"
+msgstr "Silinecek öğeleri seçin"
+
+# Edit mode toolbar title
+msgid "hfil_ti_edit_share"
+msgstr "Paylaşılacak öğeleri seçin"
+
+# Menu Item
+msgid "hfil_me_new_folder"
+msgstr "Yeni klasör"
+
+# Menu Item
+msgid "hfil_me_move"
+msgstr "Taşı"
+
+# Menu Item
+msgid "hfil_me_copy"
+msgstr "Kopyala"
+
+# Menu Item
+msgid "hfil_me_sort"
+msgstr "Sırala"
+
+# Menu Item in Tools Menu
+msgid "hfil_me_memory_usage"
+msgstr "Hafıza kullanımı"
+
+# Menu Item
+msgid "hfil_me_rename"
+msgstr "Adlandır"
+
+# Menu Item
+msgid "hfil_me_details"
+msgstr "Detaylar"
+
+# Menu Item
+msgid "hfil_me_format"
+msgstr "Biçim"
+
+# Copy to dialog title
+msgid "hfil_ti_copy_to"
+msgstr "Klasöre kopyala"
+
+# Dialog title for rename memory card.
+msgid "sfil_ti_rename_mmc"
+msgstr "Hafıza kartını adlandır"
+
+# Choice item in sort dialog
+msgid "docm_li_sort_name_az"
+msgstr "Ad (A-Z)"
+
+# Choice item in sort dialog
+msgid "docm_li_sort_name_za"
+msgstr "Ad (Z-A)"
+
+# Choice item in sort dialog
+msgid "docm_li_sort_date_newest"
+msgstr "Tarih (yeniden eskiye)"
+
+# Choice item in sort dialog
+msgid "docm_li_sort_date_oldest"
+msgstr "Tarih (eskiden yeniye)"
+
+# Choice item in sort dialog
+msgid "docm_li_sort_size_largest"
+msgstr "Boyut (büyükten küçüğe)"
+
+# Choice item in sort dialog
+msgid "docm_li_sort_size_smallest"
+msgstr "Boyut (küçükten büyüğe)"
+
+# Title for Folder details dialog
+msgid "hfil_ti_folder_details"
+msgstr "Klasör detayları"
+
+# GtkLabel text for Name property in Folder details dialog
+msgid "hfil_fi_folder_details_name"
+msgstr "Adı"
+
+# GtkLabel text for Location property in Folder details dialog
+msgid "hfil_fi_folder_details_location"
+msgstr "Konum"
+
+# GtkLabel text for Device property in Folder details dialog
+msgid "hfil_fi_folder_details_device"
+msgstr "Hafıza"
+
+# GtkLabel text for Contents property in Folder details dialog
+msgid "hfil_fi_folder_details_contents"
+msgstr "İçerikler"
+
+# Format string for Contents value in Folder details dialog when contents consist of folders and files. The first %s is substituted with sfil_fi_folder_details_contents_folder and the second with sfil_fi_folder_details_contents_file.
+msgid "sfil_fi_folder_details_contents"
+msgstr "%s, %s"
+
+#  Tells the amount of sub folders in the currently selected folder in the Folder details dialog. This is used either as a first part of the string sfil_fi_folder_details_contents or then by itself, if the folder doesn’t contain any files but only sub folders.
+msgid "sfil_fi_folder_details_contents_folder"
+msgid_plural "sfil_fi_folder_details_contents_folders"
+msgstr[0] "%d klasör"
+msgstr[1] "%d klasör"
+
+#  Tells the amount of files in the currently selected folder in the Folder details dialog. This is used either as a second part of the string sfil_fi_folder_details_contents or then by itself, if the folder doesn’t contain any sub folders.
+msgid "sfil_fi_folder_details_contents_file"
+msgid_plural "sfil_fi_folder_details_contents_files"
+msgstr[0] "%d dosya"
+msgstr[1] "%d dosya"
+
+# Format string for Contents value in Folder details dialog when there is no content.
+msgid "sfil_fi_folder_details_contents_00"
+msgstr "Hiç"
+
+# GtkLabel text for Size property in Folder details dialog
+msgid "hfil_fi_folder_details_size"
+msgstr "Boyut"
+
+# Format string for Size value in Bytes in Folder details dialog. Takes a size value string
+msgid "hfil_va_folder_details_size_bytes%d"
+msgstr "%d B"
+
+# Format string for Size value in kB in Folder details dialog. Takes a size value string
+msgid "hfil_va_folder_details_size_kb%d"
+msgstr "%d kB"
+
+# GtkLabel text for Date property in Folder details dialog
+msgid "hfil_fi_folder_details_date"
+msgstr "Tarih"
+
+# GtkLabel text for Time property in Folder details dialog
+msgid "hfil_fi_folder_details_time"
+msgstr "Zaman"
+
+# Title for Select application dialog
+msgid "hfil_ti_select_application"
+msgstr "Uygulama seç"
+
+# Informational text in Select application dialog
+msgid "hfil_ia_select_application_information"
+msgstr ""
+"Dosyayı açmak için listeden bir uygulama seçin\n"
+"'%s'"
+
+# File
+msgid "docm_nc_delete_file"
+msgstr "Dosyayı sil?"
+
+# Multiple files
+msgid "docm_nc_delete_files"
+msgstr "Seçilen dosyaları sil?"
+
+# Folder
+msgid "docm_nc_delete_folder"
+msgstr "Klasörü ve içeriklerini sil?"
+
+# Multiple folders
+msgid "docm_nc_delete_folders"
+msgstr "Seçilen klasörleri ve içeriklerini sil?"
+
+# Folder and file
+msgid "docm_nc_delete_folder_and_file"
+msgstr "Seçilen klasörü ve dosyayı sil?"
+
+# Folder and multiple files
+msgid "docm_nc_delete_folder_and_files"
+msgstr "Seçilen klasörü ve dosyaları sil?"
+
+# Multiple folders and a file
+msgid "docm_nc_delete_folders_and_file"
+msgstr "Seçilen klasörleri ve dosyayı sil?"
+
+# Multiple folders and multiple files
+msgid "docm_nc_delete_folders_and_files"
+msgstr "Seçilen klasörleri ve dosyaları sil?"
+
+# Writable and read-only items
+msgid "sfil_nc_delete_partially_read_only_items"
+msgstr ""
+"Bazı öğeler salt okunur.\n"
+"Seçilen öğeler silinsin mi?"
+
+# Replace folder Confirmation Note [FIL-NOT026] is presented when a folder already exists in the target folder that has the same name as a folder that is being copied / moved.
+msgid "docm_nc_replace_folder"
+msgstr "Aynı isimdeki klasörü yerini alsın mı?"
+
+# Format memory card Confirmation Note [FIL-NOT007] is shown before formatting MemoryCard.
+# Presented when ‘Format memory card’ command is selected from the application menu or from Memory card root folder context-sensitive menu. When memory card is formatted it is named with localized name "Memory card"
+# Tapping the ‘NO’ button cancels the dialog without performing the format operation and returns the user to the File manager main state. Tapping the ‘YES’ button initiates the Format operation for the memory card. Pressing this button will start Formatting memory card [FIL-NOT015] operation. See Connectivity dialogs and notes UI Specification [3] for more information about this notification.
+msgid "hfil_nc_format_mmc"
+msgstr "Hafıza kartı biçimlendirilsin mi? Tüm hafıza kartı verisi biçimlendirme sırasında silinecek."
+
+# Name for newly formatted memory card
+msgid "hfil_ai_formatted_memory_card"
+msgstr "Hafıza kartı"
+
+# Copying file / folder notification [FIL-NOT075] text
+msgid "docm_nw_duplicating_file"
+msgstr "Kopyalanıyor"
+
+# Preparing operation [FIL-NOT068] Cancel Note text.
+msgid "hfil_nw_preparing"
+msgstr "Hazırlanıyor"
+
+# Not Enough System Resources Information Note [FIL-NOT034]. Information note presented when there are not enough system resources to do the file open operation.
+msgid "sfil_ni_cannot_open_no_resource"
+msgstr ""
+"Açılamıyor.\n"
+"Yeterli sistem kaynağı yok."
+
+# Some items could not be copied Information Note [FIL-NOT036]. Information note presented after copy operation when it is found that there are not enough access rights to copy some of the items.
+msgid "sfil_ni_cannot_copy_some_items"
+msgstr "Bazı öğeler kopyalanamıyor"
+
+# Some items could not be deleted Information Note [FIL-NOT038]. Information note presented after delete operation when it is found that there are not enough access rights to delete some of the items.
+msgid "sfil_ni_cannot_delete_some_items"
+msgstr "Bazı öğeler silinemiyor"
+
+# Some items could not be moved Information Note [FIL-NOT039]. Information note presented after move operation when it is found that there are not enough access rights to delete some of the items.
+msgid "sfil_ni_cannot_move_some_items"
+msgstr "Bazı öğeler taşınamıyor"
+
+# Unable to move File not found Information Note [FIL-NOT040]. Information note presented when file has disappeared in the middle of operation.
+msgid "sfil_ni_cannot_move_file_not_found"
+msgstr ""
+"Taşınamıyor.\n"
+"Dosya bulunamadı."
+
+# Unable to move items not found Information Note [FIL-NOT041]. Information note presented when files / folders have disappeared in the middle of operation.
+msgid "sfil_ni_cannot_move_items_not_found"
+msgstr ""
+"Taşınamıyor.\n"
+"Öğeler bulunamadı."
+
+# Moving interrupted no connection Information Note [FIL-NOT044]. Information note presented when the connection breaks in the middle of file move operation.
+msgid "sfil_ni_cannot_move_no_connection"
+msgstr ""
+"Taşıma yarıda kesildi.\n"
+"Bağlantı başarısız."
+
+# Unable to copy File not found Information Note [FIL-NOT045]. Information note presented when file has disappeared in the middle of copy operation.
+msgid "sfil_ni_cannot_duplicate_file_not_found"
+msgstr ""
+"Kopyalanamadı.\n"
+"Dosya bulunamadı."
+
+# Unable to copy Folder not found Information Note [FIL-NOT046]. Information note presented when folder has disappeared in the middle of copy operation.
+msgid "sfil_ni_cannot_duplicate_folder_not_found"
+msgstr ""
+"Kopyalanamadı.\n"
+"Klasör bulunamadı."
+
+# Unable to rename Folder not found Information Note [FIL-NOT048]. Information note presented when folder has disappeared in the middle of rename operation.
+msgid "sfil_ni_cannot_rename_folder_not_found"
+msgstr ""
+"Adlandırılamadı.\n"
+"Klasör bulunamadı."
+
+# Unable to format Memory card in use [FIL-NOT090]. Information Note Unable to format Memory card in use [FIL-NOT090] is shown when formatting memory card is initiated and memory card is in use
+msgid "sfil_ni_mmc_format_mmc_in_use"
+msgstr ""
+"Biçimlendirilemiyor.\n"
+"Hafıza kartı kullanımda."
+
+# Unable to rename Memory card in use [FIL-NOT091]. Information Note Unable to rename Memory card in use [FIL-NOT091] is shown when renaming memory card is initiated and memory card is in use
+msgid "sfil_ni_mmc_rename_mmc_in_use"
+msgstr ""
+"Adlandırılamıyor.\n"
+"Hafıza kartı kullanımda."
+
+# Information Note Selected item is in use [FIL-NOT110] is shown when user tries to move / delete / rename a file and it is in use in some application.
+msgid "sfil_ni_selected_item_in_use"
+msgstr "Seçilen öğe kullanımda"
+
+# Information Note Selected items are in use [FIL-NOT111] is shown when user tries to move / delete files and they are in use in some application.
+msgid "sfil_ni_selected_items_in_use"
+msgstr "Seçilen öğeler kullanımda"
+
+# Information Note Some items are in use [FIL-NOT112] is shown when user tries to move / delete files and some of them are in use in some application.
+msgid "sfil_ni_some_selected_items_in_use"
+msgstr "Seçilen öğelerden bazıları kullanımda"
+
+# Shown if the user tries to copy a file which he does not have enough access rights.
+msgid "sfil_ib_cannot_duplicate_file"
+msgstr "Kopyalanamıyor"
+
+# Shown if user tries to delete read only folder or files.
+msgid "sfil_ib_unable_to_continue_read_only_folder"
+msgstr ""
+"Devam edilemiyor.\n"
+"Salt-okunur klasör %s"
+
+# Shown if the user tries to copy a folder which he does not have enough access rights.
+msgid "sfil_ib_cannot_duplicate_folder"
+msgstr "Klasör kopyalanamıyor"
+
+# Shown when one action is not allowed
+msgid "sfil_ib_not_allowed"
+msgstr "İzin verilmedi"
+
+# Shown if the user tries to rename a memory card with same name than a file stored in to the root of the memory card. Error is caused by restriction in FAT file system.
+msgid "sfil_ib_card_name_in_use_for_file"
+msgstr "Öğenin ismi kök klasörde zaten kullanılıyor"
