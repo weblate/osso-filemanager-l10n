@@ -1,0 +1,261 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-filemanager 20090615131440\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.15 13:14+0300\n"
+"PO-Revision-Date: 2009-10-15 13:45+0200\n"
+"Last-Translator: Roman Moravčík <roman.moravcik@gmail.com>\n"
+"Language-Team: sk_SK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+
+msgid "docm_li_sort_date_newest"
+msgstr "Dátum (prvý najnovší)"
+
+msgid "docm_li_sort_date_oldest"
+msgstr "Dátum (prvý najstarší)"
+
+msgid "docm_li_sort_name_az"
+msgstr "Názov (A-Z)"
+
+msgid "docm_li_sort_name_za"
+msgstr "Názov (Z-A)"
+
+msgid "docm_li_sort_size_largest"
+msgstr "Veľkosť (prvý najväčší)"
+
+msgid "docm_li_sort_size_smallest"
+msgstr "Veľkosť (prvý najmenší)"
+
+msgid "docm_nc_delete_file"
+msgstr "Odstrániť súbor?"
+
+msgid "docm_nc_delete_files"
+msgstr "Odstrániť vybrané súbory?"
+
+msgid "docm_nc_delete_folder"
+msgstr "Odstrániť zložku a jej obsah?"
+
+msgid "docm_nc_delete_folder_and_file"
+msgstr "Odstrániť vybranú zložku a súbor?"
+
+msgid "docm_nc_delete_folder_and_files"
+msgstr "Odstrániť vybranú zložku a súbory?"
+
+msgid "docm_nc_delete_folders"
+msgstr "Odstrániť vybrané zložky a ich obsah?"
+
+msgid "docm_nc_delete_folders_and_file"
+msgstr "Odstrániť vybrané zložky a súbor?"
+
+msgid "docm_nc_delete_folders_and_files"
+msgstr "Odstrániť vybrané zložky a súbory?"
+
+msgid "docm_nc_replace_folder"
+msgstr "Nahradiť existujúcu zložku rovnakého názvu?"
+
+msgid "docm_nw_duplicating_file"
+msgstr "Kopírovanie"
+
+msgid "hfil_ai_formatted_memory_card"
+msgstr "Pamäťová karta"
+
+msgid "hfil_fi_folder_details_contents"
+msgstr "Obsah"
+
+msgid "hfil_fi_folder_details_date"
+msgstr "Dátum"
+
+msgid "hfil_fi_folder_details_device"
+msgstr "Pamäť"
+
+msgid "hfil_fi_folder_details_location"
+msgstr "Umiestnenie"
+
+msgid "hfil_fi_folder_details_name"
+msgstr "Názov"
+
+msgid "hfil_fi_folder_details_size"
+msgstr "Veľkosť"
+
+msgid "hfil_fi_folder_details_time"
+msgstr "Čas"
+
+msgid "hfil_ia_select_application_information"
+msgstr ""
+"Zvolte aplikáciu zo zoznamu na otvorenie súboru\n"
+"'%s'"
+
+msgid "hfil_me_copy"
+msgstr "Kopírovať"
+
+msgid "hfil_me_details"
+msgstr "Podrobnosti"
+
+msgid "hfil_me_format"
+msgstr "Formátovať"
+
+msgid "hfil_me_memory_usage"
+msgstr "Využitie pamäte"
+
+msgid "hfil_me_move"
+msgstr "Presunúť"
+
+msgid "hfil_me_new_folder"
+msgstr "Nová zložka"
+
+msgid "hfil_me_rename"
+msgstr "Premenovať"
+
+msgid "hfil_me_sort"
+msgstr "Triediť"
+
+msgid "hfil_nc_format_mmc"
+msgstr ""
+"Formátovať pamäťovú kartu?\n"
+"Všetky dáta na pamäťovej karte budú počas\n"
+"formátovania odstránené."
+
+msgid "hfil_nw_preparing"
+msgstr "Príprava"
+
+msgid "hfil_ti_copy_to"
+msgstr "Kopírovať do zložky"
+
+msgid "hfil_ti_edit_copy_to"
+msgstr "Vyberte položky na kopírovanie"
+
+msgid "hfil_ti_edit_delete"
+msgstr "Vyberte položky na odstránenie"
+
+msgid "hfil_ti_edit_move_to"
+msgstr "Vyberte položky na presunutie"
+
+msgid "hfil_ti_edit_share"
+msgstr "Vyberte položky na zdieľanie"
+
+msgid "hfil_ti_folder_details"
+msgstr "Podrobnosti zložky"
+
+msgid "hfil_ti_select_application"
+msgstr "Zvolte aplikáciu"
+
+msgid "hfil_va_folder_details_size_bytes%d"
+msgstr "%d B"
+
+msgid "hfil_va_folder_details_size_kb%d"
+msgstr "%d kB"
+
+msgid "sfil_ap_name"
+msgstr "Správca súborov"
+
+msgid "sfil_fi_folder_details_contents"
+msgstr "%s, %s"
+
+msgid "sfil_fi_folder_details_contents_00"
+msgstr "Žiadny"
+
+msgid "sfil_fi_folder_details_contents_file"
+msgid_plural "sfil_fi_folder_details_contents_files"
+msgstr[0] "%d súbor"
+msgstr[1] "%d súbory"
+msgstr[2] "%d súborov"
+
+msgid "sfil_fi_folder_details_contents_folder"
+msgid_plural "sfil_fi_folder_details_contents_folders"
+msgstr[0] "%d zložka"
+msgstr[1] "%d zložky"
+msgstr[2] "%d zložiek"
+
+msgid "sfil_ib_cannot_duplicate_file"
+msgstr "Tento súbor nemožno kopírovať"
+
+msgid "sfil_ib_cannot_duplicate_folder"
+msgstr "Tuto zložku nemožno kopírovať"
+
+msgid "sfil_ib_card_name_in_use_for_file"
+msgstr "Názov sa už používa pre položku v koreňovej zložke"
+
+msgid "sfil_ib_not_allowed"
+msgstr "Nepovolené"
+
+msgid "sfil_ib_unable_to_continue_read_only_folder"
+msgstr ""
+"Nemožno pokračovať.\n"
+"Zložka %s iba na čítanie"
+
+msgid "sfil_nc_delete_partially_read_only_items"
+msgstr ""
+"Niektoré položky iba na čítanie.\n"
+"Odstrániť vybrané položky?"
+
+msgid "sfil_ni_cannot_copy_some_items"
+msgstr "Nemožno kopírovať niektoré položky"
+
+msgid "sfil_ni_cannot_delete_some_items"
+msgstr "Nemožno odstrániť niektoré položky"
+
+msgid "sfil_ni_cannot_duplicate_file_not_found"
+msgstr ""
+"Nemožno kopírovať.\n"
+"Súbor nenájdený."
+
+msgid "sfil_ni_cannot_duplicate_folder_not_found"
+msgstr ""
+"Nemožno kopírovať.\n"
+"Zložka nenájdená."
+
+msgid "sfil_ni_cannot_move_file_not_found"
+msgstr ""
+"Nemožno presunúť.\n"
+"Súbor nenájdený."
+
+msgid "sfil_ni_cannot_move_items_not_found"
+msgstr ""
+"Nemožno presunúť.\n"
+"Položky nenájdené."
+
+msgid "sfil_ni_cannot_move_no_connection"
+msgstr ""
+"Presúvanie prerušené.\n"
+"Pripojenie zlyhalo."
+
+msgid "sfil_ni_cannot_move_some_items"
+msgstr "Nemožno presunúť niektoré položky"
+
+msgid "sfil_ni_cannot_open_no_resource"
+msgstr ""
+"Nemožno otvoriť.\n"
+"Nedostatok systémových zdrojov."
+
+msgid "sfil_ni_cannot_rename_folder_not_found"
+msgstr ""
+"Nemožno premenovať.\n"
+"Zložka nenájdená."
+
+msgid "sfil_ni_mmc_format_mmc_in_use"
+msgstr ""
+"Nemožno formátovať.\n"
+"Pamäťová karta sa používa."
+
+msgid "sfil_ni_mmc_rename_mmc_in_use"
+msgstr ""
+"Nemožno premenovať.\n"
+"Pamäťová karta sa používa."
+
+msgid "sfil_ni_selected_item_in_use"
+msgstr "Zvolená položka sa používa"
+
+msgid "sfil_ni_selected_items_in_use"
+msgstr "Zvolené položky sa používajú"
+
+msgid "sfil_ni_some_selected_items_in_use"
+msgstr "Niektoré zo zvolených položiek sa používajú"
+
+msgid "sfil_ti_name"
+msgstr "Správca súborov"
+
+msgid "sfil_ti_rename_mmc"
+msgstr "Premenovať pamäťovú kartu"
