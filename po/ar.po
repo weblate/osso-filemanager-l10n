@@ -1,0 +1,257 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-filemanager 20090615131440\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.15 13:14+0300\n"
+"PO-Revision-Date: 2010-04-06 11:25+0400\n"
+"Last-Translator: Osama Al Abrash <madboy221@hotmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "docm_li_sort_date_newest"
+msgstr "التاريخ (الأحدث أولاً)"
+
+msgid "docm_li_sort_date_oldest"
+msgstr "التاريخ (القديم أولاً)"
+
+msgid "docm_li_sort_name_az"
+msgstr "الأسم (أ-ي)"
+
+msgid "docm_li_sort_name_za"
+msgstr "الأسم (ي-أ)"
+
+msgid "docm_li_sort_size_largest"
+msgstr "الحجم (الكبير أولا ً)"
+
+msgid "docm_li_sort_size_smallest"
+msgstr "الحجم (الصغير أولاً)"
+
+msgid "docm_nc_delete_file"
+msgstr "مسح الملف?"
+
+msgid "docm_nc_delete_files"
+msgstr "مسح الملفات المحدد?"
+
+msgid "docm_nc_delete_folder"
+msgstr "مسح الملف ومحتوياتة?"
+
+msgid "docm_nc_delete_folder_and_file"
+msgstr "مسح المجلد والملف?"
+
+msgid "docm_nc_delete_folder_and_files"
+msgstr "مسح المجلد والمفات?"
+
+msgid "docm_nc_delete_folders"
+msgstr "مسح المجلدات ومحتوياتها?"
+
+msgid "docm_nc_delete_folders_and_file"
+msgstr "مسح المجلدات والملف?"
+
+msgid "docm_nc_delete_folders_and_files"
+msgstr "مسح المجلدات والملفات?"
+
+msgid "docm_nc_replace_folder"
+msgstr "أستبدال الملف الحالى بنفس الأسم?"
+
+msgid "docm_nw_duplicating_file"
+msgstr "جارى النسخ"
+
+msgid "hfil_ai_formatted_memory_card"
+msgstr "كرت الذاكره"
+
+msgid "hfil_fi_folder_details_contents"
+msgstr "المحتويات"
+
+msgid "hfil_fi_folder_details_date"
+msgstr "التاريخ"
+
+msgid "hfil_fi_folder_details_device"
+msgstr "الحفظ"
+
+msgid "hfil_fi_folder_details_location"
+msgstr "الموقع"
+
+msgid "hfil_fi_folder_details_name"
+msgstr "الأسم"
+
+msgid "hfil_fi_folder_details_size"
+msgstr "الحجم"
+
+msgid "hfil_fi_folder_details_time"
+msgstr "الوقت"
+
+msgid "hfil_ia_select_application_information"
+msgstr ""
+"حدد برنامج من القائمة التالية لفتح الملف\n"
+"'%s'"
+
+msgid "hfil_me_copy"
+msgstr "نسخ"
+
+msgid "hfil_me_details"
+msgstr "التفاصيل"
+
+msgid "hfil_me_format"
+msgstr "تهيئة"
+
+msgid "hfil_me_memory_usage"
+msgstr "الذاكره المستخدمة"
+
+msgid "hfil_me_move"
+msgstr "تحريك"
+
+msgid "hfil_me_new_folder"
+msgstr "مجلد جديد"
+
+msgid "hfil_me_rename"
+msgstr "إعادة تسمية"
+
+msgid "hfil_me_sort"
+msgstr "فرز"
+
+msgid "hfil_nc_format_mmc"
+msgstr "تهيئة بطاقة الذاكرة? سيتم حذف جميع البينات من كرت الذاكره أثناء التهيئة ."
+
+msgid "hfil_nw_preparing"
+msgstr "الأعدادات"
+
+msgid "hfil_ti_copy_to"
+msgstr "نسخ الملف إلى"
+
+msgid "hfil_ti_edit_copy_to"
+msgstr "حدد الملف لنسخ"
+
+msgid "hfil_ti_edit_delete"
+msgstr "حدد الملف للحذف"
+
+msgid "hfil_ti_edit_move_to"
+msgstr "حدد الملف لنقل"
+
+msgid "hfil_ti_edit_share"
+msgstr "حدد الملف للمشاركة"
+
+msgid "hfil_ti_folder_details"
+msgstr "تفاصيل الملف"
+
+msgid "hfil_ti_select_application"
+msgstr "تحديد البرنامج"
+
+msgid "hfil_va_folder_details_size_bytes%d"
+msgstr "%d بايت"
+
+msgid "hfil_va_folder_details_size_kb%d"
+msgstr "%d كيلو بايت"
+
+msgid "sfil_ap_name"
+msgstr "مدير الملفات"
+
+msgid "sfil_fi_folder_details_contents"
+msgstr "%s, %s"
+
+msgid "sfil_fi_folder_details_contents_00"
+msgstr "لايوجد"
+
+msgid "sfil_fi_folder_details_contents_file"
+msgid_plural "sfil_fi_folder_details_contents_files"
+msgstr[0] "%d ملف"
+msgstr[1] "%d ملفات"
+
+msgid "sfil_fi_folder_details_contents_folder"
+msgid_plural "sfil_fi_folder_details_contents_folders"
+msgstr[0] "%d folder"
+msgstr[1] "%d مجلدات"
+
+msgid "sfil_ib_cannot_duplicate_file"
+msgstr "غير قادر على نسخ الملف"
+
+msgid "sfil_ib_cannot_duplicate_folder"
+msgstr "غير قادر على نسخ الملجلد"
+
+msgid "sfil_ib_card_name_in_use_for_file"
+msgstr "الأسم مستخدم بالفعل في المسار الأصلى"
+
+msgid "sfil_ib_not_allowed"
+msgstr "غير مسموح"
+
+msgid "sfil_ib_unable_to_continue_read_only_folder"
+msgstr ""
+"غير قادر على المتابعة.\n"
+"الملف للقراءة فقط %s"
+
+msgid "sfil_nc_delete_partially_read_only_items"
+msgstr ""
+"بعض الملفات للقراءة فقط.\n"
+"حذف هذه الملفات?"
+
+msgid "sfil_ni_cannot_copy_some_items"
+msgstr "غير قادر على نسخ بعض الملفات"
+
+msgid "sfil_ni_cannot_delete_some_items"
+msgstr "غير قادر على مسح بعض الملفات"
+
+msgid "sfil_ni_cannot_duplicate_file_not_found"
+msgstr ""
+"غير قادر على النسخ.\n"
+"الملف غير موجود."
+
+msgid "sfil_ni_cannot_duplicate_folder_not_found"
+msgstr ""
+"غير قادر على النسخ.\n"
+"المجلد غير موجود."
+
+msgid "sfil_ni_cannot_move_file_not_found"
+msgstr ""
+"غير قادر على النقل.\n"
+"الملف غير موجود."
+
+msgid "sfil_ni_cannot_move_items_not_found"
+msgstr ""
+"غير قادر على النقل.\n"
+"العنصر غير موجود."
+
+msgid "sfil_ni_cannot_move_no_connection"
+msgstr ""
+"توقف النقل.\n"
+"فشل الأتصال."
+
+msgid "sfil_ni_cannot_move_some_items"
+msgstr "غير قادر على نقل بعض الملفات"
+
+msgid "sfil_ni_cannot_open_no_resource"
+msgstr ""
+"غير قادر على الفتح.\n"
+"لاتوجد مصادر كافيه."
+
+msgid "sfil_ni_cannot_rename_folder_not_found"
+msgstr ""
+"غير قادر على إعادة التسمية.\n"
+"المجلد غير موجود."
+
+msgid "sfil_ni_mmc_format_mmc_in_use"
+msgstr ""
+"غير قادر على التهيئة.\n"
+"كرت الذاكره مستخدم."
+
+msgid "sfil_ni_mmc_rename_mmc_in_use"
+msgstr ""
+"غير قادر على إعادة التسمية.\n"
+"كرت الذاكره مستخدم."
+
+msgid "sfil_ni_selected_item_in_use"
+msgstr "العنصر المحدد مستخدم"
+
+msgid "sfil_ni_selected_items_in_use"
+msgstr "العناصر المحدد مستخدمة"
+
+msgid "sfil_ni_some_selected_items_in_use"
+msgstr "بعض العناصر المحدد مستخدمة"
+
+msgid "sfil_ti_name"
+msgstr "مدير الملفات"
+
+msgid "sfil_ti_rename_mmc"
+msgstr "إعادة تسمية بطاقة الذاكرة"
+
