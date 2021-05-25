@@ -1,0 +1,257 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-filemanager 20090615131440\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.15 13:14+0300\n"
+"PO-Revision-Date: 2010-02-01 16:22+0100\n"
+"Last-Translator: Andy1210 <andy1210@gmail.com>\n"
+"Language-Team: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "docm_li_sort_date_newest"
+msgstr "Dátum (legújabb felül)"
+
+msgid "docm_li_sort_date_oldest"
+msgstr "Dátum (legrégebbi felül)"
+
+msgid "docm_li_sort_name_az"
+msgstr "Név (A-Z)"
+
+msgid "docm_li_sort_name_za"
+msgstr "Név (Z-A)"
+
+msgid "docm_li_sort_size_largest"
+msgstr "Méret (legnagyobb felül)"
+
+msgid "docm_li_sort_size_smallest"
+msgstr "Méret (Legkisebb felül)"
+
+msgid "docm_nc_delete_file"
+msgstr "Törlöd a fájlt?"
+
+msgid "docm_nc_delete_files"
+msgstr "Törlöd a kijelölt mappákat?"
+
+msgid "docm_nc_delete_folder"
+msgstr "Törlöd a mappát és teljes tartalmát?"
+
+msgid "docm_nc_delete_folder_and_file"
+msgstr "Törlöd a kiválasztott mappát és fájlt?"
+
+msgid "docm_nc_delete_folder_and_files"
+msgstr "Törlöd a kiválasztott mappákat és fájlokat?"
+
+msgid "docm_nc_delete_folders"
+msgstr "Törlöd a kiválasztott mappákat és teljes tartalmukat?"
+
+msgid "docm_nc_delete_folders_and_file"
+msgstr "Törlöd a kiválasztott mappákat és a fájlt?"
+
+msgid "docm_nc_delete_folders_and_files"
+msgstr "Törlöd a kiválasztott mappákat és fájlokat?"
+
+msgid "docm_nc_replace_folder"
+msgstr "Felülírod a létező mappát?"
+
+msgid "docm_nw_duplicating_file"
+msgstr "Másolás"
+
+msgid "hfil_ai_formatted_memory_card"
+msgstr "Memóriakártya"
+
+msgid "hfil_fi_folder_details_contents"
+msgstr "Tartalom"
+
+msgid "hfil_fi_folder_details_date"
+msgstr "Dátum"
+
+msgid "hfil_fi_folder_details_device"
+msgstr "Tároló"
+
+msgid "hfil_fi_folder_details_location"
+msgstr "Hely"
+
+msgid "hfil_fi_folder_details_name"
+msgstr "Név"
+
+msgid "hfil_fi_folder_details_size"
+msgstr "Méret"
+
+msgid "hfil_fi_folder_details_time"
+msgstr "Idő"
+
+msgid "hfil_ia_select_application_information"
+msgstr ""
+"A fájl megnyitásához válassz egy alkalmazást a listából\n"
+"'%s'"
+
+msgid "hfil_me_copy"
+msgstr "Másolás"
+
+msgid "hfil_me_details"
+msgstr "Részletek"
+
+msgid "hfil_me_format"
+msgstr "Formázás"
+
+msgid "hfil_me_memory_usage"
+msgstr "Memória használtat"
+
+msgid "hfil_me_move"
+msgstr "Áthelyezés"
+
+msgid "hfil_me_new_folder"
+msgstr "Új mappa"
+
+msgid "hfil_me_rename"
+msgstr "Átnevezés"
+
+msgid "hfil_me_sort"
+msgstr "Rendezés"
+
+msgid "hfil_nc_format_mmc"
+msgstr "Formázod a memóriakártyát? A kártyán található összes adat elvész a formázás során."
+
+msgid "hfil_nw_preparing"
+msgstr "Előkészítés"
+
+msgid "hfil_ti_copy_to"
+msgstr "Másolás mappába"
+
+msgid "hfil_ti_edit_copy_to"
+msgstr "Válassz elemeket a másoláshoz"
+
+msgid "hfil_ti_edit_delete"
+msgstr "Válassz elemeket a törléshez"
+
+msgid "hfil_ti_edit_move_to"
+msgstr "Válassz elemeket az áthelyezéshez"
+
+msgid "hfil_ti_edit_share"
+msgstr "Válassz elemeket a megosztáshoz"
+
+msgid "hfil_ti_folder_details"
+msgstr "Mappa tulajdonságok"
+
+msgid "hfil_ti_select_application"
+msgstr "Alkalmazás választása"
+
+msgid "hfil_va_folder_details_size_bytes%d"
+msgstr "%d B"
+
+msgid "hfil_va_folder_details_size_kb%d"
+msgstr "%d kB"
+
+msgid "sfil_ap_name"
+msgstr "Fájlkezelő"
+
+msgid "sfil_fi_folder_details_contents"
+msgstr "%s, %s"
+
+msgid "sfil_fi_folder_details_contents_00"
+msgstr "Nincs"
+
+msgid "sfil_fi_folder_details_contents_file"
+msgid_plural "sfil_fi_folder_details_contents_files"
+msgstr[0] "%d fájl"
+msgstr[1] "%d files"
+
+msgid "sfil_fi_folder_details_contents_folder"
+msgid_plural "sfil_fi_folder_details_contents_folders"
+msgstr[0] "%d mappa"
+msgstr[1] "%d folders"
+
+msgid "sfil_ib_cannot_duplicate_file"
+msgstr "Nem lehet másolni a fájlt"
+
+msgid "sfil_ib_cannot_duplicate_folder"
+msgstr "Nem lehet másolni a mappát"
+
+msgid "sfil_ib_card_name_in_use_for_file"
+msgstr "Ezzel a névvel már létezik egy elem a root mappában"
+
+msgid "sfil_ib_not_allowed"
+msgstr "Nem engedélyezett"
+
+msgid "sfil_ib_unable_to_continue_read_only_folder"
+msgstr ""
+"Nem lehet folytatni.\n"
+"Mappa csak olvasható %s"
+
+msgid "sfil_nc_delete_partially_read_only_items"
+msgstr ""
+"Néhány elem csak olvasható.\n"
+"Törlöd a kiválasztott elemeket?"
+
+msgid "sfil_ni_cannot_copy_some_items"
+msgstr "Néhány elemet nem lehet másolni"
+
+msgid "sfil_ni_cannot_delete_some_items"
+msgstr "Néhány elemet nem lehet törölni"
+
+msgid "sfil_ni_cannot_duplicate_file_not_found"
+msgstr ""
+"Nem lehet másolni.\n"
+"A fájl nem található."
+
+msgid "sfil_ni_cannot_duplicate_folder_not_found"
+msgstr ""
+"Nem lehet másolni.\n"
+"A mappa nem található."
+
+msgid "sfil_ni_cannot_move_file_not_found"
+msgstr ""
+"Nem lehet áthelyezni.\n"
+"A fájl nem található."
+
+msgid "sfil_ni_cannot_move_items_not_found"
+msgstr ""
+"Nem lehet áthelyezni.\n"
+"Az elemek nem találhatóak."
+
+msgid "sfil_ni_cannot_move_no_connection"
+msgstr ""
+"Áthelyezés megszakadt.\n"
+"Kapcsolat meghiúsult."
+
+msgid "sfil_ni_cannot_move_some_items"
+msgstr "Néhány elemet nem lehet áthelyezni"
+
+msgid "sfil_ni_cannot_open_no_resource"
+msgstr ""
+"Nem lehet megnyitni.\n"
+"Nincs elég rendszer erőforrás."
+
+msgid "sfil_ni_cannot_rename_folder_not_found"
+msgstr ""
+"Nem lehet átnevezni.\n"
+"A mappa nem található."
+
+msgid "sfil_ni_mmc_format_mmc_in_use"
+msgstr ""
+"Nem lehet formázni.\n"
+"A memóriakártya használatban van."
+
+msgid "sfil_ni_mmc_rename_mmc_in_use"
+msgstr ""
+"Nem lehet átnevezni.\n"
+"A memóriakártya használatban van."
+
+msgid "sfil_ni_selected_item_in_use"
+msgstr "A kiválasztott elem használatban van"
+
+msgid "sfil_ni_selected_items_in_use"
+msgstr "A kiválasztott elemek használatban vannak"
+
+msgid "sfil_ni_some_selected_items_in_use"
+msgstr "Néhány kiválasztott elem használatban van"
+
+msgid "sfil_ti_name"
+msgstr "Fájlkezelő"
+
+msgid "sfil_ti_rename_mmc"
+msgstr "Memóriakártya átnevezése"
+
