@@ -1,0 +1,235 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.06.15 13:14+0300\n"
+"PO-Revision-Date: 2010-11-30 11:44+0000\n"
+"Last-Translator: \n"
+"Language-Team: Greek (http://www.transifex.net/projects/p/n900-extra-translations/language/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "docm_li_sort_date_newest"
+msgstr "Ημερομηνία (πιο πρόσφατο πρώτα)"
+
+msgid "docm_li_sort_date_oldest"
+msgstr "Ημερομηνία (πιο παλιό πρώτα)"
+
+msgid "docm_li_sort_name_az"
+msgstr "Όνομα (A-Ω)"
+
+msgid "docm_li_sort_name_za"
+msgstr "Όνομα (Ω-A)"
+
+msgid "docm_li_sort_size_largest"
+msgstr "Μέγεθος (μεγαλύτερο πρώτα)"
+
+msgid "docm_li_sort_size_smallest"
+msgstr "Μέγεθος (μικρότερο πρώτα)"
+
+msgid "docm_nc_delete_file"
+msgstr "Διαγραφή αρχείου;"
+
+msgid "docm_nc_delete_files"
+msgstr "Διαγραφή επιλεγμένων αρχείων;"
+
+msgid "docm_nc_delete_folder"
+msgstr "Διαγραφή φακέλου και των περιεχόμενών του;"
+
+msgid "docm_nc_delete_folder_and_file"
+msgstr "Διαγραφή επιλεγμένου φακέλου και αρχείου;"
+
+msgid "docm_nc_delete_folder_and_files"
+msgstr "Διαγραφή επιλεγμένου φακέλου και αρχείων;"
+
+msgid "docm_nc_delete_folders"
+msgstr "Διαγραφή επιλεγμένων φακέλων και των περιεχόμενών τους;"
+
+msgid "docm_nc_delete_folders_and_file"
+msgstr "Διαγραφή επιλεγμένων φακέλων και αρχείου;"
+
+msgid "docm_nc_delete_folders_and_files"
+msgstr "Διαγραφή επιλεγμένων φακέλων και αρχείων;"
+
+msgid "docm_nc_replace_folder"
+msgstr "Αντικατάσταση υπάρχοντος φακέλου με ίδιο όνομα;"
+
+msgid "docm_nw_duplicating_file"
+msgstr "Αντιγραφή"
+
+msgid "hfil_ai_formatted_memory_card"
+msgstr "Κάρτα μνήμης"
+
+msgid "hfil_fi_folder_details_contents"
+msgstr "Περιεχόμενα"
+
+msgid "hfil_fi_folder_details_date"
+msgstr "Ημερομηνία"
+
+msgid "hfil_fi_folder_details_device"
+msgstr "Χωρητικότητα"
+
+msgid "hfil_fi_folder_details_location"
+msgstr "Τοποθεσία"
+
+msgid "hfil_fi_folder_details_name"
+msgstr "Όνομα"
+
+msgid "hfil_fi_folder_details_size"
+msgstr "Μέγεθος"
+
+msgid "hfil_fi_folder_details_time"
+msgstr "Ώρα"
+
+msgid "hfil_ia_select_application_information"
+msgstr "Επιλογή εφαρμογής από την λίστα για το άνοιγμα του αρχείου\n%s"
+
+msgid "hfil_me_copy"
+msgstr "Αντιγραφή"
+
+msgid "hfil_me_details"
+msgstr "Λεπτομέρειες"
+
+msgid "hfil_me_format"
+msgstr "Μορφοποίηση"
+
+msgid "hfil_me_memory_usage"
+msgstr "Χρήση μνήμης"
+
+msgid "hfil_me_move"
+msgstr "Μετακίνηση"
+
+msgid "hfil_me_new_folder"
+msgstr "Νέος φάκελος"
+
+msgid "hfil_me_rename"
+msgstr "Μετoνομασία"
+
+msgid "hfil_me_sort"
+msgstr "Ταξινόμηση"
+
+msgid "hfil_nc_format_mmc"
+msgstr "Μορφοποίηση της κάρτας μνήμης; Όλα τα δεδομένα της κάρτας μνήμης θα διαγραφούν κατά την μορφοποίηση."
+
+msgid "hfil_nw_preparing"
+msgstr "Προετοιμασία"
+
+msgid "hfil_ti_copy_to"
+msgstr "Αντιγραφή σε φάκελο"
+
+msgid "hfil_ti_edit_copy_to"
+msgstr "Επιλογή αρχείων προς αντιγραφή"
+
+msgid "hfil_ti_edit_delete"
+msgstr "Επιλογή αρχείων προς διαγραφή"
+
+msgid "hfil_ti_edit_move_to"
+msgstr "Επιλογή αρχείων προς μετακίνηση"
+
+msgid "hfil_ti_edit_share"
+msgstr "Επιλογή αρχείων προς διαμοιρασμό"
+
+msgid "hfil_ti_folder_details"
+msgstr "Λεπτομέρειες φακέλου"
+
+msgid "hfil_ti_select_application"
+msgstr "Επιλογή εφαρμογής"
+
+msgid "hfil_va_folder_details_size_bytes%d"
+msgstr "%d B"
+
+msgid "hfil_va_folder_details_size_kb%d"
+msgstr "%d kB"
+
+msgid "sfil_ap_name"
+msgstr "Αρχεία"
+
+msgid "sfil_fi_folder_details_contents"
+msgstr "%s, %s"
+
+msgid "sfil_fi_folder_details_contents_00"
+msgstr "κανένα"
+
+msgid "sfil_fi_folder_details_contents_file"
+msgid_plural "sfil_fi_folder_details_contents_files"
+msgstr[0] "%d αρχείο"
+msgstr[1] "%d αρχεία"
+
+msgid "sfil_fi_folder_details_contents_folder"
+msgid_plural "sfil_fi_folder_details_contents_folders"
+msgstr[0] "%d φάκελος"
+msgstr[1] "%d φάκελοι"
+
+msgid "sfil_ib_cannot_duplicate_file"
+msgstr "Αδύνατη η αντιγραφή του αρχείου"
+
+msgid "sfil_ib_cannot_duplicate_folder"
+msgstr "Αδύνατη η αντιγραφή του φακέλου"
+
+msgid "sfil_ib_card_name_in_use_for_file"
+msgstr "Το όνομα χρησιμοποιείται ήδη από αρχείο στον φάκελο root"
+
+msgid "sfil_ib_not_allowed"
+msgstr "Δεν επιτρέπεται"
+
+msgid "sfil_ib_unable_to_continue_read_only_folder"
+msgstr "Αδύνατη η συνέχεια.\nΦάκελος %s μόνο για ανάγνωση"
+
+msgid "sfil_nc_delete_partially_read_only_items"
+msgstr "Ορισμένα αντικείμενα είναι μόνο για ανάγνωση.\nΔιαγραφή επιλεγμένων αντικειμένων;"
+
+msgid "sfil_ni_cannot_copy_some_items"
+msgstr "Αδύνατη η αντιγραφή ορισμένων αντικειμένων"
+
+msgid "sfil_ni_cannot_delete_some_items"
+msgstr "Αδύνατη η διαγραφή ορισμένων αντικειμένων"
+
+msgid "sfil_ni_cannot_duplicate_file_not_found"
+msgstr "Αδύνατη η αντιγραφή.\nΤο αρχείο δεν βρέθηκε."
+
+msgid "sfil_ni_cannot_duplicate_folder_not_found"
+msgstr "Αδύνατη η αντιγραφή.\nΟ φάκελος δεν βρέθηκε."
+
+msgid "sfil_ni_cannot_move_file_not_found"
+msgstr "Αδύνατη η μετακίνηση.\nΤο αρχείο δεν βρέθηκε."
+
+msgid "sfil_ni_cannot_move_items_not_found"
+msgstr "Αδύνατη η μετακίνηση.\nΤα αρχεία δεν βρέθηκαν."
+
+msgid "sfil_ni_cannot_move_no_connection"
+msgstr "Η μετακίνηση διακόπηκε.\nΣφάλμα σύνδεσης."
+
+msgid "sfil_ni_cannot_move_some_items"
+msgstr "Αδύνατη η μετακίνηση ορισμένων αντικειμένων"
+
+msgid "sfil_ni_cannot_open_no_resource"
+msgstr "Αδύνατο το άνοιγμα.\nΌχι αρκετοί πόροι συστήματος."
+
+msgid "sfil_ni_cannot_rename_folder_not_found"
+msgstr "Αδύνατη η μετανομασία.\nΟ φάκελος δεν βρέθηκε."
+
+msgid "sfil_ni_mmc_format_mmc_in_use"
+msgstr "Αδύνατη η μορφοποίηση.\nΗ κάρτα μνήμης είναι σε χρήση."
+
+msgid "sfil_ni_mmc_rename_mmc_in_use"
+msgstr "Αδύνατα η μετανομασία.\nΗ κάρτα μνήμης είναι σε χρήση."
+
+msgid "sfil_ni_selected_item_in_use"
+msgstr "Το επιλεγμένο αντικείμενο είναι σε χρήση"
+
+msgid "sfil_ni_selected_items_in_use"
+msgstr "Τα επιλεγμένα αντικείμενα είναι σε χρήση"
+
+msgid "sfil_ni_some_selected_items_in_use"
+msgstr "Ορισμένα από τα επιλεγμένα αντικείμενα είναι σε χρήση"
+
+msgid "sfil_ti_name"
+msgstr "Διαχείριση αρχείων"
+
+msgid "sfil_ti_rename_mmc"
+msgstr "Μετανομασία κάρτας μνήμης"
