@@ -1,0 +1,235 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.06.15 13:14+0300\n"
+"PO-Revision-Date: 2012-05-26 07:39+0000\n"
+"Last-Translator: Stanislau <kasrkin@mail.by>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: be_BY\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "docm_li_sort_date_newest"
+msgstr "Дата (навейшая)"
+
+msgid "docm_li_sort_date_oldest"
+msgstr "Дата (старэйшая)"
+
+msgid "docm_li_sort_name_az"
+msgstr "Імя (А-Я)"
+
+msgid "docm_li_sort_name_za"
+msgstr "Імя (Я-А)"
+
+msgid "docm_li_sort_size_largest"
+msgstr "Памер (па змяншэнні)"
+
+msgid "docm_li_sort_size_smallest"
+msgstr "Памер (па ўзрастанні)"
+
+msgid "docm_nc_delete_file"
+msgstr "Выдаліць файл?"
+
+msgid "docm_nc_delete_files"
+msgstr "Выдаліць абраныя файлы?"
+
+msgid "docm_nc_delete_folder"
+msgstr "Выдаліць тэчку з яе змесцівам?"
+
+msgid "docm_nc_delete_folder_and_file"
+msgstr "Выдаліць абраную тэчку і файл?"
+
+msgid "docm_nc_delete_folder_and_files"
+msgstr "Выдаліць абраныя тэчку і файлы?"
+
+msgid "docm_nc_delete_folders"
+msgstr "Выдаліць абраныя тэчкі і іх змесціва?"
+
+msgid "docm_nc_delete_folders_and_file"
+msgstr "Выдаліць абраныя тэчкі і файл?"
+
+msgid "docm_nc_delete_folders_and_files"
+msgstr "Выдаліць абраныя тэчкі і файлы?"
+
+msgid "docm_nc_replace_folder"
+msgstr "Замяніць існуючую тэчку с такім жа імем?"
+
+msgid "docm_nw_duplicating_file"
+msgstr "Капіраванне"
+
+msgid "hfil_ai_formatted_memory_card"
+msgstr "Карта памяці"
+
+msgid "hfil_fi_folder_details_contents"
+msgstr "Змест"
+
+msgid "hfil_fi_folder_details_date"
+msgstr "Дата"
+
+msgid "hfil_fi_folder_details_device"
+msgstr "Захоўвальнік"
+
+msgid "hfil_fi_folder_details_location"
+msgstr "Размяшчэнне"
+
+msgid "hfil_fi_folder_details_name"
+msgstr "Імя"
+
+msgid "hfil_fi_folder_details_size"
+msgstr "Памер"
+
+msgid "hfil_fi_folder_details_time"
+msgstr "Час"
+
+msgid "hfil_ia_select_application_information"
+msgstr "Абярыце прыкладанне са спісу для адчынення файла\n'%s'"
+
+msgid "hfil_me_copy"
+msgstr "Капіраваць"
+
+msgid "hfil_me_details"
+msgstr "Дэталі"
+
+msgid "hfil_me_format"
+msgstr "Фарматаваць"
+
+msgid "hfil_me_memory_usage"
+msgstr "Выкарыстанне памяці"
+
+msgid "hfil_me_move"
+msgstr "Перамясціць"
+
+msgid "hfil_me_new_folder"
+msgstr "Новая тэчка"
+
+msgid "hfil_me_rename"
+msgstr "Перайменаваць"
+
+msgid "hfil_me_sort"
+msgstr "Сартаваць"
+
+msgid "hfil_nc_format_mmc"
+msgstr "Фарматаваць карту памяці? Усе яе дадзеныя будуць выдаленыя падчас фарматавання."
+
+msgid "hfil_nw_preparing"
+msgstr "Падрыхтоўка"
+
+msgid "hfil_ti_copy_to"
+msgstr "Капіраваць у тэчку"
+
+msgid "hfil_ti_edit_copy_to"
+msgstr "Абярыце элементы для капіравання"
+
+msgid "hfil_ti_edit_delete"
+msgstr "Абярыце элементы для выдалення"
+
+msgid "hfil_ti_edit_move_to"
+msgstr "Абярыце элементы для перамяшчэння"
+
+msgid "hfil_ti_edit_share"
+msgstr "Абярыце элементы для сумеснага доступу"
+
+msgid "hfil_ti_folder_details"
+msgstr "Дэталі тэчкі"
+
+msgid "hfil_ti_select_application"
+msgstr "Абярыце прыкладанне"
+
+msgid "hfil_va_folder_details_size_bytes%d"
+msgstr "%d Б"
+
+msgid "hfil_va_folder_details_size_kb%d"
+msgstr "%d кБ"
+
+msgid "sfil_ap_name"
+msgstr "Файлы"
+
+msgid "sfil_fi_folder_details_contents"
+msgstr "%s, %s"
+
+msgid "sfil_fi_folder_details_contents_00"
+msgstr "Няма"
+
+msgid "sfil_fi_folder_details_contents_file"
+msgid_plural "sfil_fi_folder_details_contents_files"
+msgstr[0] "%d файл"
+msgstr[1] "%d файлаў"
+
+msgid "sfil_fi_folder_details_contents_folder"
+msgid_plural "sfil_fi_folder_details_contents_folders"
+msgstr[0] "%d тэчка"
+msgstr[1] "%d тэчак"
+
+msgid "sfil_ib_cannot_duplicate_file"
+msgstr "Немагчыма капіраваць файл"
+
+msgid "sfil_ib_cannot_duplicate_folder"
+msgstr "Немагчыма капіраваць тэчку"
+
+msgid "sfil_ib_card_name_in_use_for_file"
+msgstr "Імя для элемента ужо выкарыстоўваецца ў каранёвай тэчцы"
+
+msgid "sfil_ib_not_allowed"
+msgstr "Не дазволена"
+
+msgid "sfil_ib_unable_to_continue_read_only_folder"
+msgstr "Немагчыма працягнуць.\nТэчка %s толькі для чытання."
+
+msgid "sfil_nc_delete_partially_read_only_items"
+msgstr "Некаторыя элементы толькі для чытання.\nВыдаліць абраныя элементы?"
+
+msgid "sfil_ni_cannot_copy_some_items"
+msgstr "Немагчыма капіраваць некаторыя элементы"
+
+msgid "sfil_ni_cannot_delete_some_items"
+msgstr "Немагчыма выдаліць некаторыя элементы"
+
+msgid "sfil_ni_cannot_duplicate_file_not_found"
+msgstr "Немагчыма капіраваць.\nФайл не знойдзены."
+
+msgid "sfil_ni_cannot_duplicate_folder_not_found"
+msgstr "Немагчыма капіраваць.\nтэчка не знодзена."
+
+msgid "sfil_ni_cannot_move_file_not_found"
+msgstr "Немагчыма перамясціць.\nФайл не знойдзены."
+
+msgid "sfil_ni_cannot_move_items_not_found"
+msgstr "Немагчыма перамясціць.\nЭлементы не знойдзеныя."
+
+msgid "sfil_ni_cannot_move_no_connection"
+msgstr "Перамяшчэнне перарванае.\nПамылка падлучэння."
+
+msgid "sfil_ni_cannot_move_some_items"
+msgstr "Немагчыма пермясціць некаторыя элементы"
+
+msgid "sfil_ni_cannot_open_no_resource"
+msgstr "Немагчыма адчыніць.\nНе хапае сістэмных рэсурсаў."
+
+msgid "sfil_ni_cannot_rename_folder_not_found"
+msgstr "Немагчыма перайменаваць.\nТэчка не знойдзена."
+
+msgid "sfil_ni_mmc_format_mmc_in_use"
+msgstr "Немагчыма фарматаваць.\nКарта памяці выкарыстоўваецца."
+
+msgid "sfil_ni_mmc_rename_mmc_in_use"
+msgstr "Немагчыма перайменаваць.\nКарта памяці выкарыстоўваецца."
+
+msgid "sfil_ni_selected_item_in_use"
+msgstr "Абраны элемент выкарыстоўваецца"
+
+msgid "sfil_ni_selected_items_in_use"
+msgstr "Абраныя элементы выкарыстоўваюцца"
+
+msgid "sfil_ni_some_selected_items_in_use"
+msgstr "Некаторыя з абраных элементаў выкарыстоўваюцца"
+
+msgid "sfil_ti_name"
+msgstr "Файлы"
+
+msgid "sfil_ti_rename_mmc"
+msgstr "Перайменаваць карту памяці"
