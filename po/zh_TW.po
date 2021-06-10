@@ -1,0 +1,233 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.06.15 13:14+0300\n"
+"PO-Revision-Date: 2012-05-30 14:39+0000\n"
+"Last-Translator: firstfan <firstfan@gmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_TW\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "docm_li_sort_date_newest"
+msgstr "日期 (最新優先)"
+
+msgid "docm_li_sort_date_oldest"
+msgstr "日期 (最舊優先)"
+
+msgid "docm_li_sort_name_az"
+msgstr "名稱 (A-Z)"
+
+msgid "docm_li_sort_name_za"
+msgstr "名稱 (Z-A)"
+
+msgid "docm_li_sort_size_largest"
+msgstr "大小 (最大排序)"
+
+msgid "docm_li_sort_size_smallest"
+msgstr "大小 (最小排序)"
+
+msgid "docm_nc_delete_file"
+msgstr "刪除檔案?"
+
+msgid "docm_nc_delete_files"
+msgstr "刪除選取的檔案?"
+
+msgid "docm_nc_delete_folder"
+msgstr "刪除資料夾及其內容?"
+
+msgid "docm_nc_delete_folder_and_file"
+msgstr "刪除選取的資料夾和檔案?"
+
+msgid "docm_nc_delete_folder_and_files"
+msgstr "刪除選取的資料夾和檔案?"
+
+msgid "docm_nc_delete_folders"
+msgstr "刪除選取的資料夾及其內容?"
+
+msgid "docm_nc_delete_folders_and_file"
+msgstr "刪除選取的資料夾和檔案?"
+
+msgid "docm_nc_delete_folders_and_files"
+msgstr "刪除選取的資料夾和檔案?"
+
+msgid "docm_nc_replace_folder"
+msgstr "替換現有的資料夾相同的名稱?"
+
+msgid "docm_nw_duplicating_file"
+msgstr "複製中"
+
+msgid "hfil_ai_formatted_memory_card"
+msgstr "記憶卡"
+
+msgid "hfil_fi_folder_details_contents"
+msgstr "目錄"
+
+msgid "hfil_fi_folder_details_date"
+msgstr "日期"
+
+msgid "hfil_fi_folder_details_device"
+msgstr "儲存"
+
+msgid "hfil_fi_folder_details_location"
+msgstr "位置"
+
+msgid "hfil_fi_folder_details_name"
+msgstr "名稱"
+
+msgid "hfil_fi_folder_details_size"
+msgstr "大小"
+
+msgid "hfil_fi_folder_details_time"
+msgstr "時間"
+
+msgid "hfil_ia_select_application_information"
+msgstr "從清單中選擇一個應用程式開啟此檔案\n'%s'"
+
+msgid "hfil_me_copy"
+msgstr "複製"
+
+msgid "hfil_me_details"
+msgstr "詳細"
+
+msgid "hfil_me_format"
+msgstr "格式化"
+
+msgid "hfil_me_memory_usage"
+msgstr "記憶體使用"
+
+msgid "hfil_me_move"
+msgstr "移動"
+
+msgid "hfil_me_new_folder"
+msgstr "建立資料夾"
+
+msgid "hfil_me_rename"
+msgstr "重新命名"
+
+msgid "hfil_me_sort"
+msgstr "排序"
+
+msgid "hfil_nc_format_mmc"
+msgstr "您確定要格式化記憶卡嗎? 格式化過程中所有記憶卡的資料將會被刪除."
+
+msgid "hfil_nw_preparing"
+msgstr "準備中"
+
+msgid "hfil_ti_copy_to"
+msgstr "複製到資料夾"
+
+msgid "hfil_ti_edit_copy_to"
+msgstr "選取要複製的項目"
+
+msgid "hfil_ti_edit_delete"
+msgstr "選取要刪除項目"
+
+msgid "hfil_ti_edit_move_to"
+msgstr "選取要移動項目"
+
+msgid "hfil_ti_edit_share"
+msgstr "選取要分享的項目"
+
+msgid "hfil_ti_folder_details"
+msgstr "資料夾詳細資料"
+
+msgid "hfil_ti_select_application"
+msgstr "選取應用程式"
+
+msgid "hfil_va_folder_details_size_bytes%d"
+msgstr "%d B"
+
+msgid "hfil_va_folder_details_size_kb%d"
+msgstr "%d kB"
+
+msgid "sfil_ap_name"
+msgstr "檔案管理"
+
+msgid "sfil_fi_folder_details_contents"
+msgstr "%s, %s"
+
+msgid "sfil_fi_folder_details_contents_00"
+msgstr "無內容"
+
+msgid "sfil_fi_folder_details_contents_file"
+msgid_plural "sfil_fi_folder_details_contents_files"
+msgstr[0] "%d 檔案"
+
+msgid "sfil_fi_folder_details_contents_folder"
+msgid_plural "sfil_fi_folder_details_contents_folders"
+msgstr[0] "%d 資料夾"
+
+msgid "sfil_ib_cannot_duplicate_file"
+msgstr "無法複製檔案"
+
+msgid "sfil_ib_cannot_duplicate_folder"
+msgstr "無法複製資料夾"
+
+msgid "sfil_ib_card_name_in_use_for_file"
+msgstr "在根目錄下已經存在相同名稱的檔案"
+
+msgid "sfil_ib_not_allowed"
+msgstr "不允許"
+
+msgid "sfil_ib_unable_to_continue_read_only_folder"
+msgstr "無法繼續.\n資料夾的屬性為唯讀"
+
+msgid "sfil_nc_delete_partially_read_only_items"
+msgstr "有些項目的屬性為唯讀.\n刪除所選項目?"
+
+msgid "sfil_ni_cannot_copy_some_items"
+msgstr "無法複製這些項目"
+
+msgid "sfil_ni_cannot_delete_some_items"
+msgstr "無法刪除這些項目"
+
+msgid "sfil_ni_cannot_duplicate_file_not_found"
+msgstr "無法複製.\n未找到檔案."
+
+msgid "sfil_ni_cannot_duplicate_folder_not_found"
+msgstr "無法複製.\n未找到資料夾."
+
+msgid "sfil_ni_cannot_move_file_not_found"
+msgstr "無法移動.\n未找到檔案."
+
+msgid "sfil_ni_cannot_move_items_not_found"
+msgstr "無法移動.\n未找到項目."
+
+msgid "sfil_ni_cannot_move_no_connection"
+msgstr "移動被中斷.\n連接失敗."
+
+msgid "sfil_ni_cannot_move_some_items"
+msgstr "無法移動這些項目"
+
+msgid "sfil_ni_cannot_open_no_resource"
+msgstr "無法開啟.\n沒有足夠的系統資源."
+
+msgid "sfil_ni_cannot_rename_folder_not_found"
+msgstr "無法重新命名.\n找不到資料夾."
+
+msgid "sfil_ni_mmc_format_mmc_in_use"
+msgstr "無法格式化.\n記憶卡使用中."
+
+msgid "sfil_ni_mmc_rename_mmc_in_use"
+msgstr "無法重新命名.\n記憶卡使用中."
+
+msgid "sfil_ni_selected_item_in_use"
+msgstr "選取的項目使用中"
+
+msgid "sfil_ni_selected_items_in_use"
+msgstr "選取的項目使用中"
+
+msgid "sfil_ni_some_selected_items_in_use"
+msgstr "選取的部分項目使用中"
+
+msgid "sfil_ti_name"
+msgstr "檔案管理"
+
+msgid "sfil_ti_rename_mmc"
+msgstr "重新命名記憶卡"
