@@ -1,0 +1,233 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.06.15 13:14+0300\n"
+"PO-Revision-Date: 2012-05-30 14:47+0000\n"
+"Last-Translator: firstfan <firstfan@gmail.com>\n"
+"Language-Team: Korean (http://www.transifex.net/projects/p/n900-extra-translations/language/ko/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "docm_li_sort_date_newest"
+msgstr "날짜 (가장 최근 순)"
+
+msgid "docm_li_sort_date_oldest"
+msgstr "날짜 (가장 오래된 순)"
+
+msgid "docm_li_sort_name_az"
+msgstr "이름 (A-Z)"
+
+msgid "docm_li_sort_name_za"
+msgstr "이름 (Z-A)"
+
+msgid "docm_li_sort_size_largest"
+msgstr "크기 (가장 큰 순)"
+
+msgid "docm_li_sort_size_smallest"
+msgstr "크기 (가장 작은 순)"
+
+msgid "docm_nc_delete_file"
+msgstr "파일을 삭제할까요?"
+
+msgid "docm_nc_delete_files"
+msgstr "선택한 파일을 삭제할까요?"
+
+msgid "docm_nc_delete_folder"
+msgstr "선택한 폴더와 폴더안의 내용물을 삭제할까요?"
+
+msgid "docm_nc_delete_folder_and_file"
+msgstr "선택한 폴더들과 파일을 삭제할까요?"
+
+msgid "docm_nc_delete_folder_and_files"
+msgstr "선택한 폴더와 파일들을 삭제할까요?"
+
+msgid "docm_nc_delete_folders"
+msgstr "선택한 폴더들과 폴더안의 내용물을 삭제할까요?"
+
+msgid "docm_nc_delete_folders_and_file"
+msgstr "선택한 폴더들과 파일을 삭제할까요?"
+
+msgid "docm_nc_delete_folders_and_files"
+msgstr "선택한 폴더들과 파일들을 삭제할까요?"
+
+msgid "docm_nc_replace_folder"
+msgstr "똑같은 이름의 폴더가 존재합니다. 기존 폴더를 덮어씌우시겠습니까?"
+
+msgid "docm_nw_duplicating_file"
+msgstr "복사중"
+
+msgid "hfil_ai_formatted_memory_card"
+msgstr "메모리 카드"
+
+msgid "hfil_fi_folder_details_contents"
+msgstr "내용물"
+
+msgid "hfil_fi_folder_details_date"
+msgstr "날짜"
+
+msgid "hfil_fi_folder_details_device"
+msgstr "저장소"
+
+msgid "hfil_fi_folder_details_location"
+msgstr "위치"
+
+msgid "hfil_fi_folder_details_name"
+msgstr "이름"
+
+msgid "hfil_fi_folder_details_size"
+msgstr "크기"
+
+msgid "hfil_fi_folder_details_time"
+msgstr "시간"
+
+msgid "hfil_ia_select_application_information"
+msgstr "파일을 열기 위해서 목록에서 어플리케이션을 선택해주세요\n'%s'"
+
+msgid "hfil_me_copy"
+msgstr "복사"
+
+msgid "hfil_me_details"
+msgstr "자세히"
+
+msgid "hfil_me_format"
+msgstr "형식"
+
+msgid "hfil_me_memory_usage"
+msgstr "메모리 사용량"
+
+msgid "hfil_me_move"
+msgstr "이동"
+
+msgid "hfil_me_new_folder"
+msgstr "새 폴더"
+
+msgid "hfil_me_rename"
+msgstr "이름 바꾸기"
+
+msgid "hfil_me_sort"
+msgstr "분류"
+
+msgid "hfil_nc_format_mmc"
+msgstr "메모리 카드를 포맷하시겠습니까? 포맷을 하면 모든 메모리 카드 자료가 삭제됩니다."
+
+msgid "hfil_nw_preparing"
+msgstr "준비 중"
+
+msgid "hfil_ti_copy_to"
+msgstr "폴더로 복사"
+
+msgid "hfil_ti_edit_copy_to"
+msgstr "복사할 항목 선택"
+
+msgid "hfil_ti_edit_delete"
+msgstr "삭제할 항목 선택"
+
+msgid "hfil_ti_edit_move_to"
+msgstr "이동할 항목 선택"
+
+msgid "hfil_ti_edit_share"
+msgstr "공유할 항목 선택"
+
+msgid "hfil_ti_folder_details"
+msgstr "폴더 정보"
+
+msgid "hfil_ti_select_application"
+msgstr "어플리케이션 선택"
+
+msgid "hfil_va_folder_details_size_bytes%d"
+msgstr "%d B"
+
+msgid "hfil_va_folder_details_size_kb%d"
+msgstr "%d kB"
+
+msgid "sfil_ap_name"
+msgstr "파일 관리자"
+
+msgid "sfil_fi_folder_details_contents"
+msgstr "%s, %s"
+
+msgid "sfil_fi_folder_details_contents_00"
+msgstr "없음"
+
+msgid "sfil_fi_folder_details_contents_file"
+msgid_plural "sfil_fi_folder_details_contents_files"
+msgstr[0] "%d 개의 파일"
+
+msgid "sfil_fi_folder_details_contents_folder"
+msgid_plural "sfil_fi_folder_details_contents_folders"
+msgstr[0] "%d 개의 폴더"
+
+msgid "sfil_ib_cannot_duplicate_file"
+msgstr "파일을 복사할 수 없습니다"
+
+msgid "sfil_ib_cannot_duplicate_folder"
+msgstr "폴더를 복사할 수 없습니다"
+
+msgid "sfil_ib_card_name_in_use_for_file"
+msgstr "최상위 폴더에 이미 같은 이름을 사용하는 항목이 있습니다"
+
+msgid "sfil_ib_not_allowed"
+msgstr "허용되지 않음"
+
+msgid "sfil_ib_unable_to_continue_read_only_folder"
+msgstr "계속 진행할 수 없습니다.\n%s 은 읽기 전용 폴더 입니다"
+
+msgid "sfil_nc_delete_partially_read_only_items"
+msgstr "일부 항목이 읽기 전용입니다.\n선택한 파일을 삭제하시겠습니까?"
+
+msgid "sfil_ni_cannot_copy_some_items"
+msgstr "일부 항목을 복사할 수 없습니다"
+
+msgid "sfil_ni_cannot_delete_some_items"
+msgstr "일부 항목을 삭제할 수 없습니다"
+
+msgid "sfil_ni_cannot_duplicate_file_not_found"
+msgstr "파일을 찾을 수 없어\n복사를 할 수 없습니다."
+
+msgid "sfil_ni_cannot_duplicate_folder_not_found"
+msgstr "폴더를 찾을 수 없어\n복사를 할 수 없습니다."
+
+msgid "sfil_ni_cannot_move_file_not_found"
+msgstr "파일을 찾을 수 없어\n이동을 할 수 없습니다."
+
+msgid "sfil_ni_cannot_move_items_not_found"
+msgstr "항목을 찾을 수 없어\n이동을 할 수 없습니다"
+
+msgid "sfil_ni_cannot_move_no_connection"
+msgstr "연결이 실패하여\n이동을 할 수 없습니다."
+
+msgid "sfil_ni_cannot_move_some_items"
+msgstr "일부 항목을 이동할 수 없습니다"
+
+msgid "sfil_ni_cannot_open_no_resource"
+msgstr "시스템 자원이 부족하여\n열 수가 없습니다."
+
+msgid "sfil_ni_cannot_rename_folder_not_found"
+msgstr "폴더를 찾을 수 없어\n이름을 바꿀 수 없습니다."
+
+msgid "sfil_ni_mmc_format_mmc_in_use"
+msgstr "메모리 카드가 사용 중이여서\n포맷을 할 수가 없습니다."
+
+msgid "sfil_ni_mmc_rename_mmc_in_use"
+msgstr "메모리 카드가 사용 중이여서\n이름을 바꿀 수가 없습니다."
+
+msgid "sfil_ni_selected_item_in_use"
+msgstr "선택한 항목이 사용 중입니다"
+
+msgid "sfil_ni_selected_items_in_use"
+msgstr "선택한 항목들이 사용 중입니다"
+
+msgid "sfil_ni_some_selected_items_in_use"
+msgstr "선택한 항목 중 일부 항목이 사용 중입니다"
+
+msgid "sfil_ti_name"
+msgstr "파일 관리자"
+
+msgid "sfil_ti_rename_mmc"
+msgstr "메모리 카드 이름 바꾸기"
