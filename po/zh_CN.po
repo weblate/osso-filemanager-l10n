@@ -1,0 +1,233 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.06.15 13:14+0300\n"
+"PO-Revision-Date: 2012-05-30 14:41+0000\n"
+"Last-Translator: firstfan <firstfan@gmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "docm_li_sort_date_newest"
+msgstr "日期 (由近到远)"
+
+msgid "docm_li_sort_date_oldest"
+msgstr "日期 (由远到近)"
+
+msgid "docm_li_sort_name_az"
+msgstr "文件名 (A-Z)"
+
+msgid "docm_li_sort_name_za"
+msgstr "文件名 (Z-A)"
+
+msgid "docm_li_sort_size_largest"
+msgstr "文件大小 (由大到小)"
+
+msgid "docm_li_sort_size_smallest"
+msgstr "文件大小 (由小到大)"
+
+msgid "docm_nc_delete_file"
+msgstr "删除文件?"
+
+msgid "docm_nc_delete_files"
+msgstr "删除选中的文件?"
+
+msgid "docm_nc_delete_folder"
+msgstr "删除文件夹及其内容?"
+
+msgid "docm_nc_delete_folder_and_file"
+msgstr "删除选中的文件夹和文件?"
+
+msgid "docm_nc_delete_folder_and_files"
+msgstr "删除选中的文件夹和文件?"
+
+msgid "docm_nc_delete_folders"
+msgstr "删除选中的文件夹及其内容?"
+
+msgid "docm_nc_delete_folders_and_file"
+msgstr "删除选中的文件夹和文件?"
+
+msgid "docm_nc_delete_folders_and_files"
+msgstr "删除选中的文件夹和文件?"
+
+msgid "docm_nc_replace_folder"
+msgstr "替换同名的文件夹?"
+
+msgid "docm_nw_duplicating_file"
+msgstr "正在复制"
+
+msgid "hfil_ai_formatted_memory_card"
+msgstr "存储卡"
+
+msgid "hfil_fi_folder_details_contents"
+msgstr "内容"
+
+msgid "hfil_fi_folder_details_date"
+msgstr "日期"
+
+msgid "hfil_fi_folder_details_device"
+msgstr "存储"
+
+msgid "hfil_fi_folder_details_location"
+msgstr "位置"
+
+msgid "hfil_fi_folder_details_name"
+msgstr "名称"
+
+msgid "hfil_fi_folder_details_size"
+msgstr "大小"
+
+msgid "hfil_fi_folder_details_time"
+msgstr "时间"
+
+msgid "hfil_ia_select_application_information"
+msgstr "从列表中选择一个程序来打开\n'%s'"
+
+msgid "hfil_me_copy"
+msgstr "复制"
+
+msgid "hfil_me_details"
+msgstr "详情"
+
+msgid "hfil_me_format"
+msgstr "格式化"
+
+msgid "hfil_me_memory_usage"
+msgstr "存储"
+
+msgid "hfil_me_move"
+msgstr "移动"
+
+msgid "hfil_me_new_folder"
+msgstr "创建目录"
+
+msgid "hfil_me_rename"
+msgstr "重命名"
+
+msgid "hfil_me_sort"
+msgstr "排序"
+
+msgid "hfil_nc_format_mmc"
+msgstr "格式化存储卡? 所有卡上数据将会丢失."
+
+msgid "hfil_nw_preparing"
+msgstr "正在准备"
+
+msgid "hfil_ti_copy_to"
+msgstr "复制到文件夹"
+
+msgid "hfil_ti_edit_copy_to"
+msgstr "选择要复制的项目"
+
+msgid "hfil_ti_edit_delete"
+msgstr "选择要删除的项目"
+
+msgid "hfil_ti_edit_move_to"
+msgstr "选择要移动的项目"
+
+msgid "hfil_ti_edit_share"
+msgstr "选择要共享的项目"
+
+msgid "hfil_ti_folder_details"
+msgstr "文件夹详情"
+
+msgid "hfil_ti_select_application"
+msgstr "选择程序"
+
+msgid "hfil_va_folder_details_size_bytes%d"
+msgstr "%d B"
+
+msgid "hfil_va_folder_details_size_kb%d"
+msgstr "%d kB"
+
+msgid "sfil_ap_name"
+msgstr "文件管理器"
+
+msgid "sfil_fi_folder_details_contents"
+msgstr "%s, %s"
+
+msgid "sfil_fi_folder_details_contents_00"
+msgstr "无"
+
+msgid "sfil_fi_folder_details_contents_file"
+msgid_plural "sfil_fi_folder_details_contents_files"
+msgstr[0] "%d 文件"
+
+msgid "sfil_fi_folder_details_contents_folder"
+msgid_plural "sfil_fi_folder_details_contents_folders"
+msgstr[0] "%d 文件夹"
+
+msgid "sfil_ib_cannot_duplicate_file"
+msgstr "无法复制这个文件"
+
+msgid "sfil_ib_cannot_duplicate_folder"
+msgstr "无法复制这个文件夹"
+
+msgid "sfil_ib_card_name_in_use_for_file"
+msgstr "根目录中已存在同名的项目"
+
+msgid "sfil_ib_not_allowed"
+msgstr "不允许"
+
+msgid "sfil_ib_unable_to_continue_read_only_folder"
+msgstr "无法继续..\n%s"
+
+msgid "sfil_nc_delete_partially_read_only_items"
+msgstr "删除选中的只读项目?"
+
+msgid "sfil_ni_cannot_copy_some_items"
+msgstr "某些项目无法复制"
+
+msgid "sfil_ni_cannot_delete_some_items"
+msgstr "某些项目无法删除"
+
+msgid "sfil_ni_cannot_duplicate_file_not_found"
+msgstr "无法复制.\n文件不存在."
+
+msgid "sfil_ni_cannot_duplicate_folder_not_found"
+msgstr "无法复制.\n文件夹不存在."
+
+msgid "sfil_ni_cannot_move_file_not_found"
+msgstr "无法移动.\n文件不存在."
+
+msgid "sfil_ni_cannot_move_items_not_found"
+msgstr "无法复制.\n项目不存在."
+
+msgid "sfil_ni_cannot_move_no_connection"
+msgstr "移动被中断.\n连接失败."
+
+msgid "sfil_ni_cannot_move_some_items"
+msgstr "无法移动某些项目"
+
+msgid "sfil_ni_cannot_open_no_resource"
+msgstr "无法打开.\n没有足够的系统资源."
+
+msgid "sfil_ni_cannot_rename_folder_not_found"
+msgstr "无法重命名.\n文件夹不存在."
+
+msgid "sfil_ni_mmc_format_mmc_in_use"
+msgstr "无法格式化.\n存储卡正在被使用."
+
+msgid "sfil_ni_mmc_rename_mmc_in_use"
+msgstr "无法重命名.\n存储卡正在被使用."
+
+msgid "sfil_ni_selected_item_in_use"
+msgstr "选中的项目正在被使用"
+
+msgid "sfil_ni_selected_items_in_use"
+msgstr "选中的项目正在被使用"
+
+msgid "sfil_ni_some_selected_items_in_use"
+msgstr "选中的某些项目正在被使用"
+
+msgid "sfil_ti_name"
+msgstr "文件管理器"
+
+msgid "sfil_ti_rename_mmc"
+msgstr "存储卡重命名"
