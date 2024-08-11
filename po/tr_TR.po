@@ -33,13 +33,16 @@ msgstr ""
 "Project-Id-Version: osso-filemanager 20090615131440\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.06.15 13:14+0300\n"
-"PO-Revision-Date: 2010-05-29 21:25+0200\n"
-"Last-Translator: Aranel Surion <aranel@aranelsurion.org>\n"
-"Language-Team: tr_TR\n"
+"PO-Revision-Date: 2024-08-12 11:09+0000\n"
+"Last-Translator: Oğuz Ersen <oguz@ersen.moe>\n"
+"Language-Team: Turkish <https://hosted.weblate.org/projects/maemo-leste/"
+"osso-filemanager-l10n/tr/>\n"
+"Language: tr_TR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.7-dev\n"
 
 # Application name for File manager application may be abbreviated.
 msgid "sfil_ap_name"
@@ -51,19 +54,19 @@ msgstr "Dosya yöneticisi"
 
 # Edit mode toolbar title
 msgid "hfil_ti_edit_move_to"
-msgstr "Taşınacak öğeleri seçin"
+msgstr "Taşınacak ögeleri seçin"
 
 # Edit mode toolbar title
 msgid "hfil_ti_edit_copy_to"
-msgstr "Kopyalanacak öğeleri seçin"
+msgstr "Kopyalanacak ögeleri seçin"
 
 # Edit mode toolbar title
 msgid "hfil_ti_edit_delete"
-msgstr "Silinecek öğeleri seçin"
+msgstr "Silinecek ögeleri seçin"
 
 # Edit mode toolbar title
 msgid "hfil_ti_edit_share"
-msgstr "Paylaşılacak öğeleri seçin"
+msgstr "Paylaşılacak ögeleri seçin"
 
 # Menu Item
 msgid "hfil_me_new_folder"
@@ -91,7 +94,7 @@ msgstr "Adlandır"
 
 # Menu Item
 msgid "hfil_me_details"
-msgstr "Detaylar"
+msgstr "Ayrıntılar"
 
 # Menu Item
 msgid "hfil_me_format"
@@ -131,7 +134,7 @@ msgstr "Boyut (küçükten büyüğe)"
 
 # Title for Folder details dialog
 msgid "hfil_ti_folder_details"
-msgstr "Klasör detayları"
+msgstr "Klasör ayrıntıları"
 
 # GtkLabel text for Name property in Folder details dialog
 msgid "hfil_fi_folder_details_name"
@@ -234,8 +237,8 @@ msgstr "Seçilen klasörleri ve dosyaları sil?"
 # Writable and read-only items
 msgid "sfil_nc_delete_partially_read_only_items"
 msgstr ""
-"Bazı öğeler salt okunur.\n"
-"Seçilen öğeler silinsin mi?"
+"Bazı ögeler salt okunur.\n"
+"Seçilen ögeler silinsin mi?"
 
 # Replace folder Confirmation Note [FIL-NOT026] is presented when a folder already exists in the target folder that has the same name as a folder that is being copied / moved.
 msgid "docm_nc_replace_folder"
@@ -267,15 +270,15 @@ msgstr ""
 
 # Some items could not be copied Information Note [FIL-NOT036]. Information note presented after copy operation when it is found that there are not enough access rights to copy some of the items.
 msgid "sfil_ni_cannot_copy_some_items"
-msgstr "Bazı öğeler kopyalanamıyor"
+msgstr "Bazı ögeler kopyalanamıyor"
 
 # Some items could not be deleted Information Note [FIL-NOT038]. Information note presented after delete operation when it is found that there are not enough access rights to delete some of the items.
 msgid "sfil_ni_cannot_delete_some_items"
-msgstr "Bazı öğeler silinemiyor"
+msgstr "Bazı ögeler silinemiyor"
 
 # Some items could not be moved Information Note [FIL-NOT039]. Information note presented after move operation when it is found that there are not enough access rights to delete some of the items.
 msgid "sfil_ni_cannot_move_some_items"
-msgstr "Bazı öğeler taşınamıyor"
+msgstr "Bazı ögeler taşınamıyor"
 
 # Unable to move File not found Information Note [FIL-NOT040]. Information note presented when file has disappeared in the middle of operation.
 msgid "sfil_ni_cannot_move_file_not_found"
@@ -327,15 +330,15 @@ msgstr ""
 
 # Information Note Selected item is in use [FIL-NOT110] is shown when user tries to move / delete / rename a file and it is in use in some application.
 msgid "sfil_ni_selected_item_in_use"
-msgstr "Seçilen öğe kullanımda"
+msgstr "Seçilen öge kullanımda"
 
 # Information Note Selected items are in use [FIL-NOT111] is shown when user tries to move / delete files and they are in use in some application.
 msgid "sfil_ni_selected_items_in_use"
-msgstr "Seçilen öğeler kullanımda"
+msgstr "Seçilen ögeler kullanımda"
 
 # Information Note Some items are in use [FIL-NOT112] is shown when user tries to move / delete files and some of them are in use in some application.
 msgid "sfil_ni_some_selected_items_in_use"
-msgstr "Seçilen öğelerden bazıları kullanımda"
+msgstr "Seçilen ögelerden bazıları kullanımda"
 
 # Shown if the user tries to copy a file which he does not have enough access rights.
 msgid "sfil_ib_cannot_duplicate_file"
