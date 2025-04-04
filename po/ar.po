@@ -3,13 +3,16 @@ msgstr ""
 "Project-Id-Version: osso-filemanager 20090615131440\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.06.15 13:14+0300\n"
-"PO-Revision-Date: 2010-04-06 11:25+0400\n"
-"Last-Translator: Osama Al Abrash <madboy221@hotmail.com>\n"
-"Language-Team: en_US\n"
+"PO-Revision-Date: 2025-04-04 11:14+0000\n"
+"Last-Translator: سعید <hjdicks@riseup.net>\n"
+"Language-Team: Arabic <https://hosted.weblate.org/projects/maemo-leste/"
+"osso-filemanager-l10n/ar/>\n"
+"Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 5.11-dev\n"
 
 msgid "docm_li_sort_date_newest"
 msgstr "التاريخ (الأحدث أولاً)"
@@ -47,6 +50,7 @@ msgstr "مسح المجلد والمفات?"
 msgid "docm_nc_delete_folders"
 msgstr "مسح المجلدات ومحتوياتها?"
 
+#, fuzzy
 msgid "docm_nc_delete_folders_and_file"
 msgstr "مسح المجلدات والملف?"
 
@@ -254,4 +258,3 @@ msgstr "مدير الملفات"
 
 msgid "sfil_ti_rename_mmc"
 msgstr "إعادة تسمية بطاقة الذاكرة"
-
