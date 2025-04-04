@@ -3,13 +3,16 @@ msgstr ""
 "Project-Id-Version: osso-filemanager 20090615131440\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.06.15 13:14+0300\n"
-"PO-Revision-Date: 2010-02-01 16:22+0100\n"
-"Last-Translator: Andy1210 <andy1210@gmail.com>\n"
-"Language-Team: hu_HU\n"
+"PO-Revision-Date: 2025-04-04 11:14+0000\n"
+"Last-Translator: سعید <hjdicks@riseup.net>\n"
+"Language-Team: Hungarian <https://hosted.weblate.org/projects/maemo-leste/"
+"osso-filemanager-l10n/hu/>\n"
+"Language: hu_HU\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.11-dev\n"
 
 msgid "docm_li_sort_date_newest"
 msgstr "Dátum (legújabb felül)"
@@ -47,6 +50,7 @@ msgstr "Törlöd a kiválasztott mappákat és fájlokat?"
 msgid "docm_nc_delete_folders"
 msgstr "Törlöd a kiválasztott mappákat és teljes tartalmukat?"
 
+#, fuzzy
 msgid "docm_nc_delete_folders_and_file"
 msgstr "Törlöd a kiválasztott mappákat és a fájlt?"
 
@@ -254,4 +258,3 @@ msgstr "Fájlkezelő"
 
 msgid "sfil_ti_rename_mmc"
 msgstr "Memóriakártya átnevezése"
-
