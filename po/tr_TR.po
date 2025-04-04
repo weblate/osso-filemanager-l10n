@@ -33,8 +33,8 @@ msgstr ""
 "Project-Id-Version: osso-filemanager 20090615131440\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.06.15 13:14+0300\n"
-"PO-Revision-Date: 2024-08-12 11:09+0000\n"
-"Last-Translator: Oğuz Ersen <oguz@ersen.moe>\n"
+"PO-Revision-Date: 2025-04-04 11:14+0000\n"
+"Last-Translator: سعید <hjdicks@riseup.net>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/maemo-leste/"
 "osso-filemanager-l10n/tr/>\n"
 "Language: tr_TR\n"
@@ -42,7 +42,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.7-dev\n"
+"X-Generator: Weblate 5.11-dev\n"
 
 # Application name for File manager application may be abbreviated.
 msgid "sfil_ap_name"
@@ -227,6 +227,7 @@ msgid "docm_nc_delete_folder_and_files"
 msgstr "Seçilen klasörü ve dosyaları sil?"
 
 # Multiple folders and a file
+#, fuzzy
 msgid "docm_nc_delete_folders_and_file"
 msgstr "Seçilen klasörleri ve dosyayı sil?"
 
